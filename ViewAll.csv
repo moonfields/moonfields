@@ -1,0 +1,1339 @@
+age,age_group,gender_id,gender,region,region_up,children,children_case,bmi,smoker,charges
+19,18-29,2,Female,Southwest,South,0,No children,27.9,yes,16884.92
+18,18-29,1,Male,Southeast,South,1,Children,33.77,no,1725.55
+28,18-29,1,Male,Southeast,South,3,Children,33,no,4449.46
+33,30-39,1,Male,Northwest,North,0,No children,22.71,no,21984.47
+32,30-39,1,Male,Northwest,North,0,No children,28.88,no,3866.86
+31,30-39,2,Female,Southeast,South,0,No children,25.74,no,3756.62
+46,40-49,2,Female,Southeast,South,1,Children,33.44,no,8240.59
+37,30-39,2,Female,Northwest,North,3,Children,27.74,no,7281.51
+37,30-39,1,Male,Northeast,North,2,Children,29.83,no,6406.41
+60,60-69,2,Female,Northwest,North,0,No children,25.84,no,28923.14
+25,18-29,1,Male,Northeast,North,0,No children,26.22,no,2721.32
+62,60-69,2,Female,Southeast,South,0,No children,26.29,yes,27808.73
+23,18-29,1,Male,Southwest,South,0,No children,34.4,no,1826.84
+56,50-59,2,Female,Southeast,South,0,No children,39.82,no,11090.72
+27,18-29,1,Male,Southeast,South,0,No children,42.13,yes,39611.76
+19,18-29,1,Male,Southwest,South,1,Children,24.6,no,1837.24
+52,50-59,2,Female,Northeast,North,1,Children,30.78,no,10797.34
+23,18-29,1,Male,Northeast,North,0,No children,23.85,no,2395.17
+56,50-59,1,Male,Southwest,South,0,No children,40.3,no,10602.39
+30,30-39,1,Male,Southwest,South,0,No children,35.3,yes,36837.47
+60,60-69,2,Female,Northeast,North,0,No children,36.01,no,13228.85
+30,30-39,2,Female,Southwest,South,1,Children,32.4,no,4149.74
+18,18-29,1,Male,Southeast,South,0,No children,34.1,no,1137.01
+34,30-39,2,Female,Northeast,North,1,Children,31.92,yes,37701.88
+37,30-39,1,Male,Northwest,North,2,Children,28.03,no,6203.9
+59,50-59,2,Female,Southeast,South,3,Children,27.72,no,14001.13
+63,60-69,2,Female,Northeast,North,0,No children,23.09,no,14451.84
+55,50-59,2,Female,Northwest,North,2,Children,32.78,no,12268.63
+23,18-29,1,Male,Northwest,North,1,Children,17.39,no,2775.19
+31,30-39,1,Male,Southwest,South,2,Children,36.3,yes,38711
+22,18-29,1,Male,Southwest,South,0,No children,35.6,yes,35585.58
+18,18-29,2,Female,Northeast,North,0,No children,26.32,no,2198.19
+19,18-29,2,Female,Southwest,South,5,Children,28.6,no,4687.8
+63,60-69,1,Male,Northwest,North,0,No children,28.31,no,13770.1
+28,18-29,1,Male,Southwest,South,1,Children,36.4,yes,51194.56
+19,18-29,1,Male,Northwest,North,0,No children,20.43,no,1625.43
+62,60-69,2,Female,Northwest,North,3,Children,32.97,no,15612.19
+26,18-29,1,Male,Southwest,South,0,No children,20.8,no,2302.3
+35,30-39,1,Male,Northeast,North,1,Children,36.67,yes,39774.28
+60,60-69,1,Male,Southwest,South,0,No children,39.9,yes,48173.36
+24,18-29,2,Female,Northeast,North,0,No children,26.6,no,3046.06
+31,30-39,2,Female,Southeast,South,2,Children,36.63,no,4949.76
+41,40-49,1,Male,Southeast,South,1,Children,21.78,no,6272.48
+37,30-39,2,Female,Southeast,South,2,Children,30.8,no,6313.76
+38,30-39,1,Male,Northeast,North,1,Children,37.05,no,6079.67
+55,50-59,1,Male,Southwest,South,0,No children,37.3,no,20630.28
+18,18-29,2,Female,Northeast,North,2,Children,38.67,no,3393.36
+28,18-29,2,Female,Northwest,North,0,No children,34.77,no,3556.92
+60,60-69,2,Female,Southeast,South,0,No children,24.53,no,12629.9
+36,30-39,1,Male,Southeast,South,1,Children,35.2,yes,38709.18
+18,18-29,2,Female,Northeast,North,0,No children,35.63,no,2211.13
+21,18-29,2,Female,Northwest,North,2,Children,33.63,no,3579.83
+48,40-49,1,Male,Southwest,South,1,Children,28,yes,23568.27
+36,30-39,1,Male,Southeast,South,0,No children,34.43,yes,37742.58
+40,40-49,2,Female,Northwest,North,3,Children,28.69,no,8059.68
+58,50-59,1,Male,Northwest,North,2,Children,36.96,yes,47496.49
+58,50-59,2,Female,Northeast,North,2,Children,31.83,no,13607.37
+18,18-29,1,Male,Southeast,South,2,Children,31.68,yes,34303.17
+53,50-59,2,Female,Southeast,South,1,Children,22.88,yes,23244.79
+34,30-39,2,Female,Northwest,North,2,Children,37.34,no,5989.52
+43,40-49,1,Male,Northeast,North,3,Children,27.36,no,8606.22
+25,18-29,1,Male,Southeast,South,4,Children,33.66,no,4504.66
+64,60-69,1,Male,Northwest,North,1,Children,24.7,no,30166.62
+28,18-29,2,Female,Northwest,North,1,Children,25.94,no,4133.64
+20,18-29,2,Female,Northwest,North,0,No children,22.42,yes,14711.74
+19,18-29,2,Female,Southwest,South,0,No children,28.9,no,1743.21
+61,60-69,2,Female,Southwest,South,2,Children,39.1,no,14235.07
+40,40-49,1,Male,Northwest,North,1,Children,26.32,no,6389.38
+40,40-49,2,Female,Southeast,South,0,No children,36.19,no,5920.1
+28,18-29,1,Male,Southeast,South,3,Children,23.98,yes,17663.14
+27,18-29,2,Female,Southeast,South,0,No children,24.75,yes,16577.78
+31,30-39,1,Male,Northeast,North,5,Children,28.5,no,6799.46
+53,50-59,2,Female,Southwest,South,3,Children,28.1,no,11741.73
+58,50-59,1,Male,Southeast,South,1,Children,32.01,no,11946.63
+44,40-49,1,Male,Southwest,South,2,Children,27.4,no,7726.85
+57,50-59,1,Male,Northwest,North,0,No children,34.01,no,11356.66
+29,18-29,2,Female,Southeast,South,1,Children,29.59,no,3947.41
+21,18-29,1,Male,Southeast,South,0,No children,35.53,no,1532.47
+22,18-29,2,Female,Northeast,North,0,No children,39.81,no,2755.02
+41,40-49,2,Female,Northwest,North,0,No children,32.97,no,6571.02
+31,30-39,1,Male,Northeast,North,1,Children,26.89,no,4441.21
+45,40-49,2,Female,Northeast,North,0,No children,38.29,no,7935.29
+22,18-29,1,Male,Southeast,South,1,Children,37.62,yes,37165.16
+48,40-49,2,Female,Northwest,North,4,Children,41.23,no,11033.66
+37,30-39,2,Female,Southwest,South,2,Children,34.8,yes,39836.52
+45,40-49,1,Male,Northwest,North,2,Children,22.9,yes,21098.55
+57,50-59,2,Female,Northwest,North,0,No children,31.16,yes,43578.94
+56,50-59,2,Female,Southwest,South,0,No children,27.2,no,11073.18
+46,40-49,2,Female,Northwest,North,0,No children,27.74,no,8026.67
+55,50-59,2,Female,Northwest,North,0,No children,26.98,no,11082.58
+21,18-29,2,Female,Southeast,South,0,No children,39.49,no,2026.97
+53,50-59,2,Female,Northwest,North,1,Children,24.8,no,10942.13
+59,50-59,1,Male,Northeast,North,3,Children,29.83,yes,30184.94
+35,30-39,1,Male,Northwest,North,2,Children,34.77,no,5729.01
+64,60-69,2,Female,Southwest,South,2,Children,31.3,yes,47291.06
+28,18-29,2,Female,Southeast,South,1,Children,37.62,no,3766.88
+54,50-59,2,Female,Southwest,South,3,Children,30.8,no,12105.32
+55,50-59,1,Male,Southeast,South,0,No children,38.28,no,10226.28
+56,50-59,1,Male,Northeast,North,0,No children,19.95,yes,22412.65
+38,30-39,1,Male,Southwest,South,0,No children,19.3,yes,15820.7
+41,40-49,2,Female,Southwest,South,0,No children,31.6,no,6186.13
+30,30-39,1,Male,Northeast,North,0,No children,25.46,no,3645.09
+18,18-29,2,Female,Northeast,North,0,No children,30.12,no,21344.85
+61,60-69,2,Female,Southeast,South,3,Children,29.92,yes,30942.19
+34,30-39,2,Female,Southwest,South,1,Children,27.5,no,5003.85
+20,18-29,1,Male,Northwest,North,1,Children,28.03,yes,17560.38
+19,18-29,2,Female,Southwest,South,1,Children,28.4,no,2331.52
+26,18-29,1,Male,Northwest,North,2,Children,30.88,no,3877.3
+29,18-29,1,Male,Southeast,South,0,No children,27.94,no,2867.12
+63,60-69,1,Male,Southeast,South,0,No children,35.09,yes,47055.53
+54,50-59,1,Male,Northwest,North,1,Children,33.63,no,10825.25
+55,50-59,2,Female,Southwest,South,2,Children,29.7,no,11881.36
+37,30-39,1,Male,Southwest,South,0,No children,30.8,no,4646.76
+21,18-29,2,Female,Northwest,North,0,No children,35.72,no,2404.73
+52,50-59,1,Male,Northeast,North,3,Children,32.21,no,11488.32
+60,60-69,1,Male,Northeast,North,0,No children,28.6,no,30260
+58,50-59,1,Male,Southeast,South,0,No children,49.06,no,11381.33
+29,18-29,2,Female,Southeast,South,1,Children,27.94,yes,19107.78
+49,40-49,2,Female,Southeast,South,0,No children,27.17,no,8601.33
+37,30-39,2,Female,Northwest,North,2,Children,23.37,no,6686.43
+44,40-49,1,Male,Southwest,South,2,Children,37.1,no,7740.34
+18,18-29,1,Male,Northeast,North,0,No children,23.75,no,1705.62
+20,18-29,2,Female,Northwest,North,0,No children,28.98,no,2257.48
+44,40-49,1,Male,Northeast,North,1,Children,31.35,yes,39556.49
+47,40-49,2,Female,Northwest,North,3,Children,33.92,no,10115.01
+26,18-29,2,Female,Northeast,North,0,No children,28.79,no,3385.4
+19,18-29,2,Female,Southwest,South,0,No children,28.3,yes,17081.08
+52,50-59,2,Female,Southwest,South,0,No children,37.4,no,9634.54
+32,30-39,2,Female,Northwest,North,2,Children,17.77,yes,32734.19
+38,30-39,1,Male,Southwest,South,2,Children,34.7,no,6082.41
+59,50-59,2,Female,Northeast,North,0,No children,26.51,no,12815.44
+61,60-69,2,Female,Northeast,North,0,No children,22.04,no,13616.36
+53,50-59,2,Female,Southwest,South,2,Children,35.9,no,11163.57
+19,18-29,1,Male,Northwest,North,0,No children,25.56,no,1632.56
+20,18-29,2,Female,Northeast,North,0,No children,28.79,no,2457.21
+22,18-29,2,Female,Southeast,South,0,No children,28.05,no,2155.68
+19,18-29,1,Male,Southwest,South,0,No children,34.1,no,1261.44
+22,18-29,1,Male,Northwest,North,0,No children,25.18,no,2045.69
+54,50-59,2,Female,Southeast,South,3,Children,31.9,no,27322.73
+22,18-29,2,Female,Southwest,South,0,No children,36,no,2166.73
+34,30-39,1,Male,Northeast,North,2,Children,22.42,no,27375.9
+26,18-29,1,Male,Northeast,North,1,Children,32.49,no,3490.55
+34,30-39,1,Male,Southeast,South,2,Children,25.3,yes,18972.5
+29,18-29,1,Male,Northwest,North,2,Children,29.74,no,18157.88
+30,30-39,1,Male,Northwest,North,3,Children,28.69,yes,20745.99
+29,18-29,2,Female,Southeast,South,3,Children,38.83,no,5138.26
+46,40-49,1,Male,Northwest,North,3,Children,30.5,yes,40720.55
+51,50-59,2,Female,Southeast,South,1,Children,37.73,no,9877.61
+53,50-59,2,Female,Northwest,North,1,Children,37.43,no,10959.69
+19,18-29,1,Male,Southwest,South,1,Children,28.4,no,1842.52
+35,30-39,1,Male,Northwest,North,1,Children,24.13,no,5125.22
+48,40-49,1,Male,Southeast,South,0,No children,29.7,no,7789.64
+32,30-39,2,Female,Northeast,North,3,Children,37.15,no,6334.34
+42,40-49,2,Female,Northeast,North,0,No children,23.37,yes,19964.75
+40,40-49,2,Female,Northeast,North,1,Children,25.46,no,7077.19
+44,40-49,1,Male,Northwest,North,0,No children,39.52,no,6948.7
+48,40-49,1,Male,Southeast,South,0,No children,24.42,yes,21223.68
+18,18-29,1,Male,Northeast,North,0,No children,25.18,yes,15518.18
+30,30-39,1,Male,Southeast,South,0,No children,35.53,yes,36950.26
+50,50-59,2,Female,Southeast,South,3,Children,27.83,no,19749.38
+42,40-49,2,Female,Northwest,North,0,No children,26.6,yes,21348.71
+18,18-29,2,Female,Southeast,South,0,No children,36.85,yes,36149.48
+54,50-59,1,Male,Southwest,South,1,Children,39.6,no,10450.55
+32,30-39,2,Female,Southwest,South,2,Children,29.8,no,5152.13
+37,30-39,1,Male,Northwest,North,0,No children,29.64,no,5028.15
+47,40-49,1,Male,Northeast,North,4,Children,28.22,no,10407.09
+20,18-29,2,Female,Southwest,South,5,Children,37,no,4830.63
+32,30-39,2,Female,Northwest,North,3,Children,33.16,no,6128.8
+19,18-29,2,Female,Northwest,North,1,Children,31.83,no,2719.28
+27,18-29,1,Male,Northeast,North,3,Children,18.91,no,4827.9
+63,60-69,1,Male,Southeast,South,0,No children,41.47,no,13405.39
+49,40-49,1,Male,Southwest,South,0,No children,30.3,no,8116.68
+18,18-29,1,Male,Northeast,North,0,No children,15.96,no,1694.8
+35,30-39,2,Female,Southwest,South,1,Children,34.8,no,5246.05
+24,18-29,2,Female,Northwest,North,0,No children,33.35,no,2855.44
+63,60-69,2,Female,Southwest,South,0,No children,37.7,yes,48824.45
+38,30-39,1,Male,Northwest,North,2,Children,27.84,no,6455.86
+54,50-59,1,Male,Southwest,South,1,Children,29.2,no,10436.1
+46,40-49,2,Female,Southwest,South,2,Children,28.9,no,8823.28
+41,40-49,2,Female,Northeast,North,3,Children,33.16,no,8538.29
+58,50-59,1,Male,Northwest,North,0,No children,28.6,no,11735.88
+18,18-29,2,Female,Southeast,South,0,No children,38.28,no,1631.82
+22,18-29,1,Male,Northeast,North,3,Children,19.95,no,4005.42
+44,40-49,2,Female,Northwest,North,0,No children,26.41,no,7419.48
+44,40-49,1,Male,Southeast,South,2,Children,30.69,no,7731.43
+36,30-39,1,Male,Northeast,North,3,Children,41.9,yes,43753.34
+26,18-29,2,Female,Southeast,South,2,Children,29.92,no,3981.98
+30,30-39,2,Female,Southwest,South,3,Children,30.9,no,5325.65
+41,40-49,2,Female,Southwest,South,1,Children,32.2,no,6775.96
+29,18-29,2,Female,Northwest,North,2,Children,32.11,no,4922.92
+61,60-69,1,Male,Southeast,South,0,No children,31.57,no,12557.61
+36,30-39,2,Female,Southwest,South,0,No children,26.2,no,4883.87
+25,18-29,1,Male,Southeast,South,0,No children,25.74,no,2137.65
+56,50-59,2,Female,Northwest,North,1,Children,26.6,no,12044.34
+18,18-29,1,Male,Southeast,South,0,No children,34.43,no,1137.47
+19,18-29,1,Male,Northwest,North,0,No children,30.59,no,1639.56
+39,30-39,2,Female,Southwest,South,0,No children,32.8,no,5649.72
+45,40-49,2,Female,Southeast,South,2,Children,28.6,no,8516.83
+51,50-59,2,Female,Northwest,North,0,No children,18.05,no,9644.25
+64,60-69,2,Female,Northeast,North,0,No children,39.33,no,14901.52
+19,18-29,2,Female,Northwest,North,0,No children,32.11,no,2130.68
+48,40-49,2,Female,Southeast,South,1,Children,32.23,no,8871.15
+60,60-69,2,Female,Northwest,North,0,No children,24.04,no,13012.21
+27,18-29,2,Female,Southeast,South,0,No children,36.08,yes,37133.9
+46,40-49,1,Male,Southwest,South,0,No children,22.3,no,7147.11
+28,18-29,2,Female,Northeast,North,1,Children,28.88,no,4337.74
+59,50-59,1,Male,Southeast,South,0,No children,26.4,no,11743.3
+35,30-39,1,Male,Northeast,North,2,Children,27.74,yes,20984.09
+63,60-69,2,Female,Southwest,South,0,No children,31.8,no,13880.95
+40,40-49,1,Male,Northeast,North,1,Children,41.23,no,6610.11
+20,18-29,1,Male,Southwest,South,1,Children,33,no,1980.07
+40,40-49,1,Male,Northwest,North,4,Children,30.88,no,8162.72
+24,18-29,1,Male,Northwest,North,2,Children,28.5,no,3537.7
+34,30-39,2,Female,Southeast,South,1,Children,26.73,no,5002.78
+45,40-49,2,Female,Southwest,South,2,Children,30.9,no,8520.03
+41,40-49,2,Female,Southwest,South,2,Children,37.1,no,7371.77
+53,50-59,2,Female,Northwest,North,0,No children,26.6,no,10355.64
+27,18-29,1,Male,Southeast,South,0,No children,23.1,no,2483.74
+26,18-29,2,Female,Southeast,South,1,Children,29.92,no,3392.98
+24,18-29,2,Female,Southeast,South,0,No children,23.21,no,25081.77
+34,30-39,2,Female,Southwest,South,1,Children,33.7,no,5012.47
+53,50-59,2,Female,Northeast,North,0,No children,33.25,no,10564.88
+32,30-39,1,Male,Southwest,South,3,Children,30.8,no,5253.52
+19,18-29,1,Male,Southwest,South,0,No children,34.8,yes,34779.62
+42,40-49,1,Male,Southeast,South,0,No children,24.64,yes,19515.54
+55,50-59,1,Male,Southeast,South,3,Children,33.88,no,11987.17
+28,18-29,1,Male,Southeast,South,0,No children,38.06,no,2689.5
+58,50-59,2,Female,Southeast,South,0,No children,41.91,no,24227.34
+41,40-49,2,Female,Northeast,North,1,Children,31.64,no,7358.18
+47,40-49,1,Male,Northeast,North,2,Children,25.46,no,9225.26
+42,40-49,2,Female,Northwest,North,1,Children,36.2,no,7443.64
+59,50-59,2,Female,Southeast,South,3,Children,27.83,no,14001.29
+19,18-29,2,Female,Southwest,South,0,No children,17.8,no,1727.79
+59,50-59,1,Male,Southwest,South,1,Children,27.5,no,12333.83
+39,30-39,1,Male,Northwest,North,2,Children,24.51,no,6710.19
+40,40-49,2,Female,Southeast,South,2,Children,22.22,yes,19444.27
+18,18-29,2,Female,Southeast,South,0,No children,26.73,no,1615.77
+31,30-39,1,Male,Southeast,South,2,Children,38.39,no,4463.21
+19,18-29,1,Male,Northwest,North,0,No children,29.07,yes,17352.68
+44,40-49,1,Male,Southeast,South,1,Children,38.06,no,7152.67
+23,18-29,2,Female,Northeast,North,2,Children,36.67,yes,38511.63
+33,30-39,2,Female,Northeast,North,1,Children,22.14,no,5354.07
+55,50-59,2,Female,Southwest,South,1,Children,26.8,no,35160.13
+40,40-49,1,Male,Southwest,South,3,Children,35.3,no,7196.87
+63,60-69,2,Female,Northeast,North,0,No children,27.74,yes,29523.17
+54,50-59,1,Male,Northwest,North,0,No children,30.02,no,24476.48
+60,60-69,2,Female,Southeast,South,0,No children,38.06,no,12648.7
+24,18-29,1,Male,Southeast,South,0,No children,35.86,no,1986.93
+19,18-29,1,Male,Southwest,South,1,Children,20.9,no,1832.09
+29,18-29,1,Male,Northeast,North,1,Children,28.98,no,4040.56
+18,18-29,1,Male,Northeast,North,2,Children,17.29,yes,12829.46
+63,60-69,2,Female,Southwest,South,2,Children,32.2,yes,47305.31
+54,50-59,1,Male,Southeast,South,2,Children,34.21,yes,44260.75
+27,18-29,1,Male,Southwest,South,3,Children,30.3,no,4260.74
+50,50-59,1,Male,Northeast,North,0,No children,31.83,yes,41097.16
+55,50-59,2,Female,Northeast,North,3,Children,25.37,no,13047.33
+56,50-59,1,Male,Northwest,North,0,No children,33.63,yes,43921.18
+38,30-39,2,Female,Southeast,South,0,No children,40.15,no,5400.98
+51,50-59,1,Male,Northwest,North,4,Children,24.42,no,11520.1
+19,18-29,1,Male,Northwest,North,0,No children,31.92,yes,33750.29
+58,50-59,2,Female,Southwest,South,0,No children,25.2,no,11837.16
+20,18-29,2,Female,Southeast,South,1,Children,26.84,yes,17085.27
+52,50-59,1,Male,Northeast,North,3,Children,24.32,yes,24869.84
+19,18-29,1,Male,Northwest,North,0,No children,36.96,yes,36219.41
+53,50-59,2,Female,Southeast,South,3,Children,38.06,no,20463
+46,40-49,1,Male,Southeast,South,3,Children,42.35,yes,46151.12
+40,40-49,1,Male,Southeast,South,1,Children,19.8,yes,17179.52
+59,50-59,2,Female,Northeast,North,3,Children,32.4,no,14590.63
+45,40-49,1,Male,Southwest,South,1,Children,30.2,no,7441.05
+49,40-49,1,Male,Northeast,North,1,Children,25.84,no,9282.48
+18,18-29,1,Male,Southeast,South,1,Children,29.37,no,1719.44
+50,50-59,1,Male,Southwest,South,2,Children,34.2,yes,42856.84
+41,40-49,1,Male,Northwest,North,2,Children,37.05,no,7265.7
+50,50-59,1,Male,Northeast,North,1,Children,27.46,no,9617.66
+25,18-29,1,Male,Northwest,North,0,No children,27.55,no,2523.17
+47,40-49,2,Female,Northeast,North,2,Children,26.6,no,9715.84
+19,18-29,1,Male,Northwest,North,2,Children,20.62,no,2803.7
+22,18-29,2,Female,Southwest,South,0,No children,24.3,no,2150.47
+59,50-59,1,Male,Southeast,South,2,Children,31.79,no,12928.79
+51,50-59,2,Female,Southeast,South,1,Children,21.56,no,9855.13
+40,40-49,2,Female,Northeast,North,1,Children,28.12,yes,22331.57
+54,50-59,1,Male,Northeast,North,3,Children,40.57,yes,48549.18
+30,30-39,1,Male,Northeast,North,1,Children,27.65,no,4237.13
+55,50-59,2,Female,Northeast,North,1,Children,32.4,no,11879.1
+52,50-59,2,Female,Southwest,South,0,No children,31.2,no,9625.92
+46,40-49,1,Male,Southeast,South,1,Children,26.62,no,7742.11
+46,40-49,2,Female,Northeast,North,2,Children,48.07,no,9432.93
+63,60-69,2,Female,Northwest,North,0,No children,26.22,no,14256.19
+59,50-59,2,Female,Northeast,North,1,Children,36.77,yes,47896.79
+52,50-59,1,Male,Southeast,South,3,Children,26.4,no,25992.82
+28,18-29,2,Female,Southwest,South,0,No children,33.4,no,3172.02
+29,18-29,1,Male,Northeast,North,1,Children,29.64,no,20277.81
+25,18-29,1,Male,Southeast,South,2,Children,45.54,yes,42112.24
+22,18-29,2,Female,Southeast,South,0,No children,28.82,no,2156.75
+25,18-29,1,Male,Southwest,South,3,Children,26.8,no,3906.13
+18,18-29,1,Male,Northeast,North,0,No children,22.99,no,1704.57
+19,18-29,1,Male,Southwest,South,0,No children,27.7,yes,16297.85
+47,40-49,1,Male,Southeast,South,1,Children,25.41,yes,21978.68
+31,30-39,1,Male,Northwest,North,3,Children,34.39,yes,38746.36
+48,40-49,2,Female,Northwest,North,1,Children,28.88,no,9249.5
+36,30-39,1,Male,Northeast,North,3,Children,27.55,no,6746.74
+53,50-59,2,Female,Northeast,North,3,Children,22.61,yes,24873.38
+56,50-59,2,Female,Southeast,South,2,Children,37.51,no,12265.51
+28,18-29,2,Female,Southeast,South,2,Children,33,no,4349.46
+57,50-59,2,Female,Southwest,South,2,Children,38,no,12646.21
+29,18-29,1,Male,Northwest,North,2,Children,33.35,no,19442.35
+28,18-29,2,Female,Southwest,South,2,Children,27.5,no,20177.67
+30,30-39,2,Female,Southeast,South,1,Children,33.33,no,4151.03
+58,50-59,1,Male,Northeast,North,0,No children,34.87,no,11944.59
+41,40-49,2,Female,Northwest,North,2,Children,33.06,no,7749.16
+50,50-59,1,Male,Southwest,South,0,No children,26.6,no,8444.47
+19,18-29,2,Female,Southwest,South,0,No children,24.7,no,1737.38
+43,40-49,1,Male,Southeast,South,3,Children,35.97,yes,42124.52
+49,40-49,1,Male,Southeast,South,0,No children,35.86,no,8124.41
+27,18-29,2,Female,Southwest,South,0,No children,31.4,yes,34838.87
+52,50-59,1,Male,Northeast,North,0,No children,33.25,no,9722.77
+50,50-59,1,Male,Northwest,North,0,No children,32.21,no,8835.26
+54,50-59,1,Male,Northeast,North,0,No children,32.78,no,10435.07
+44,40-49,2,Female,Northwest,North,0,No children,27.65,no,7421.19
+32,30-39,1,Male,Northeast,North,1,Children,37.34,no,4667.61
+34,30-39,1,Male,Northwest,North,1,Children,25.27,no,4894.75
+26,18-29,2,Female,Northeast,North,4,Children,29.64,no,24671.66
+34,30-39,1,Male,Southwest,South,0,No children,30.8,yes,35491.64
+57,50-59,1,Male,Northeast,North,0,No children,40.95,no,11566.3
+29,18-29,1,Male,Southwest,South,0,No children,27.2,no,2866.09
+40,40-49,1,Male,Northeast,North,1,Children,34.11,no,6600.21
+27,18-29,2,Female,Southeast,South,1,Children,23.21,no,3561.89
+45,40-49,1,Male,Northwest,North,2,Children,36.48,yes,42760.5
+64,60-69,2,Female,Southwest,South,1,Children,33.8,yes,47928.03
+52,50-59,1,Male,Southwest,South,0,No children,36.7,no,9144.57
+61,60-69,2,Female,Northeast,North,1,Children,36.39,yes,48517.56
+52,50-59,1,Male,Northwest,North,0,No children,27.36,yes,24393.62
+61,60-69,2,Female,Northwest,North,0,No children,31.16,no,13429.04
+56,50-59,2,Female,Northeast,North,0,No children,28.79,no,11658.38
+43,40-49,2,Female,Northeast,North,2,Children,35.72,no,19144.58
+64,60-69,1,Male,Southwest,South,0,No children,34.5,no,13822.8
+60,60-69,1,Male,Southeast,South,0,No children,25.74,no,12142.58
+62,60-69,1,Male,Northwest,North,1,Children,27.55,no,13937.67
+50,50-59,1,Male,Northeast,North,1,Children,32.3,yes,41919.1
+46,40-49,2,Female,Southeast,South,1,Children,27.72,no,8232.64
+24,18-29,2,Female,Southwest,South,0,No children,27.6,no,18955.22
+62,60-69,1,Male,Northwest,North,0,No children,30.02,no,13352.1
+60,60-69,2,Female,Northeast,North,0,No children,27.55,no,13217.09
+63,60-69,1,Male,Northeast,North,0,No children,36.77,no,13981.85
+49,40-49,2,Female,Southeast,South,4,Children,41.47,no,10977.21
+34,30-39,2,Female,Southeast,South,3,Children,29.26,no,6184.3
+33,30-39,1,Male,Southeast,South,2,Children,35.75,no,4890
+46,40-49,1,Male,Northeast,North,1,Children,33.35,no,8334.46
+36,30-39,2,Female,Southeast,South,1,Children,29.92,no,5478.04
+19,18-29,1,Male,Northwest,North,0,No children,27.84,no,1635.73
+57,50-59,2,Female,Northwest,North,0,No children,23.18,no,11830.61
+50,50-59,2,Female,Southwest,South,0,No children,25.6,no,8932.08
+30,30-39,2,Female,Southwest,South,0,No children,27.7,no,3554.2
+33,30-39,1,Male,Northeast,North,0,No children,35.25,no,12404.88
+18,18-29,2,Female,Southeast,South,0,No children,38.28,no,14133.04
+46,40-49,1,Male,Southwest,South,0,No children,27.6,no,24603.05
+46,40-49,1,Male,Southeast,South,3,Children,43.89,no,8944.12
+47,40-49,1,Male,Northwest,North,3,Children,29.83,no,9620.33
+23,18-29,1,Male,Southeast,South,0,No children,41.91,no,1837.28
+18,18-29,2,Female,Southeast,South,0,No children,20.79,no,1607.51
+48,40-49,2,Female,Northeast,North,2,Children,32.3,no,10043.25
+35,30-39,1,Male,Southwest,South,1,Children,30.5,no,4751.07
+19,18-29,2,Female,Southwest,South,0,No children,21.7,yes,13844.51
+21,18-29,2,Female,Southwest,South,1,Children,26.4,no,2597.78
+21,18-29,2,Female,Southeast,South,2,Children,21.89,no,3180.51
+49,40-49,2,Female,Northeast,North,1,Children,30.78,no,9778.35
+56,50-59,2,Female,Northeast,North,3,Children,32.3,no,13430.27
+42,40-49,2,Female,Northwest,North,2,Children,24.99,no,8017.06
+44,40-49,1,Male,Northwest,North,2,Children,32.02,no,8116.27
+18,18-29,1,Male,Northeast,North,3,Children,30.4,no,3481.87
+61,60-69,2,Female,Northwest,North,0,No children,21.09,no,13415.04
+57,50-59,2,Female,Northeast,North,0,No children,22.23,no,12029.29
+42,40-49,2,Female,Northeast,North,1,Children,33.16,no,7639.42
+26,18-29,1,Male,Southwest,South,2,Children,32.9,yes,36085.22
+20,18-29,1,Male,Southeast,South,0,No children,33.33,no,1391.53
+23,18-29,2,Female,Northwest,North,0,No children,28.31,yes,18033.97
+39,30-39,2,Female,Northeast,North,3,Children,24.89,yes,21659.93
+24,18-29,1,Male,Southeast,South,0,No children,40.15,yes,38126.25
+64,60-69,2,Female,Northwest,North,3,Children,30.12,no,16455.71
+62,60-69,1,Male,Southeast,South,1,Children,31.46,no,27000.98
+27,18-29,2,Female,Northeast,North,2,Children,17.96,yes,15006.58
+55,50-59,1,Male,Northeast,North,0,No children,30.69,yes,42303.69
+55,50-59,1,Male,Southeast,South,0,No children,33,no,20781.49
+35,30-39,2,Female,Southeast,South,2,Children,43.34,no,5846.92
+44,40-49,1,Male,Northeast,North,2,Children,22.14,no,8302.54
+19,18-29,1,Male,Southwest,South,0,No children,34.4,no,1261.86
+58,50-59,2,Female,Southeast,South,0,No children,39.05,no,11856.41
+50,50-59,1,Male,Northwest,North,2,Children,25.37,no,30284.64
+26,18-29,2,Female,Northwest,North,0,No children,22.61,no,3176.82
+24,18-29,2,Female,Northwest,North,3,Children,30.21,no,4618.08
+48,40-49,1,Male,Northeast,North,4,Children,35.63,no,10736.87
+19,18-29,2,Female,Northwest,North,0,No children,37.43,no,2138.07
+48,40-49,1,Male,Northeast,North,1,Children,31.45,no,8964.06
+49,40-49,1,Male,Northeast,North,1,Children,31.35,no,9290.14
+46,40-49,2,Female,Northeast,North,2,Children,32.3,no,9411.01
+46,40-49,1,Male,Northwest,North,0,No children,19.86,no,7526.71
+43,40-49,2,Female,Southwest,South,3,Children,34.4,no,8522
+21,18-29,1,Male,Southeast,South,0,No children,31.02,no,16586.5
+64,60-69,1,Male,Southwest,South,2,Children,25.6,no,14988.43
+18,18-29,2,Female,Southeast,South,0,No children,38.17,no,1631.67
+51,50-59,2,Female,Southwest,South,0,No children,20.6,no,9264.8
+47,40-49,1,Male,Southeast,South,1,Children,47.52,no,8083.92
+64,60-69,2,Female,Northwest,North,0,No children,32.97,no,14692.67
+49,40-49,1,Male,Northwest,North,3,Children,32.3,no,10269.46
+31,30-39,1,Male,Southwest,South,0,No children,20.4,no,3260.2
+52,50-59,2,Female,Northeast,North,2,Children,38.38,no,11396.9
+33,30-39,2,Female,Southeast,South,0,No children,24.31,no,4185.1
+47,40-49,2,Female,Southwest,South,1,Children,23.6,no,8539.67
+38,30-39,1,Male,Southeast,South,3,Children,21.12,no,6652.53
+32,30-39,1,Male,Southeast,South,1,Children,30.03,no,4074.45
+19,18-29,1,Male,Northwest,North,0,No children,17.48,no,1621.34
+44,40-49,2,Female,Northeast,North,1,Children,20.24,yes,19594.81
+26,18-29,2,Female,Northeast,North,2,Children,17.2,yes,14455.64
+25,18-29,1,Male,Southwest,South,5,Children,23.9,no,5080.1
+19,18-29,2,Female,Northwest,North,0,No children,35.15,no,2134.9
+43,40-49,2,Female,Southeast,South,1,Children,35.64,no,7345.73
+52,50-59,1,Male,Southeast,South,0,No children,34.1,no,9140.95
+36,30-39,2,Female,Southwest,South,2,Children,22.6,yes,18608.26
+64,60-69,1,Male,Southeast,South,1,Children,39.16,no,14418.28
+63,60-69,2,Female,Northwest,North,0,No children,26.98,yes,28950.47
+64,60-69,1,Male,Southeast,South,0,No children,33.88,yes,46889.26
+61,60-69,1,Male,Southeast,South,0,No children,35.86,yes,46599.11
+40,40-49,1,Male,Northeast,North,1,Children,32.78,yes,39125.33
+25,18-29,1,Male,Northeast,North,0,No children,30.59,no,2727.4
+48,40-49,1,Male,Southwest,South,2,Children,30.2,no,8968.33
+45,40-49,1,Male,Southeast,South,5,Children,24.31,no,9788.87
+38,30-39,2,Female,Northeast,North,1,Children,27.27,no,6555.07
+18,18-29,2,Female,Northeast,North,0,No children,29.17,no,7323.73
+21,18-29,2,Female,Northeast,North,1,Children,16.82,no,3167.46
+27,18-29,2,Female,Northwest,North,3,Children,30.4,no,18804.75
+19,18-29,1,Male,Southwest,South,0,No children,33.1,no,23082.96
+29,18-29,2,Female,Northwest,North,2,Children,20.24,no,4906.41
+42,40-49,1,Male,Southwest,South,0,No children,26.9,no,5969.72
+60,60-69,2,Female,Southwest,South,0,No children,30.5,no,12638.2
+31,30-39,1,Male,Northwest,North,1,Children,28.6,no,4243.59
+60,60-69,1,Male,Southeast,South,3,Children,33.11,no,13919.82
+22,18-29,1,Male,Northeast,North,0,No children,31.73,no,2254.8
+35,30-39,1,Male,Southwest,South,3,Children,28.9,no,5926.85
+52,50-59,2,Female,Southeast,South,5,Children,46.75,no,12592.53
+26,18-29,1,Male,Northeast,North,0,No children,29.45,no,2897.32
+31,30-39,2,Female,Northwest,North,1,Children,32.68,no,4738.27
+33,30-39,2,Female,Southwest,South,0,No children,33.5,yes,37079.37
+18,18-29,1,Male,Southeast,South,0,No children,43.01,no,1149.4
+59,50-59,2,Female,Southeast,South,1,Children,36.52,no,28287.9
+56,50-59,1,Male,Northwest,North,1,Children,26.7,yes,26109.33
+45,40-49,2,Female,Southwest,South,0,No children,33.1,no,7345.08
+60,60-69,1,Male,Northeast,North,0,No children,29.64,no,12731
+56,50-59,2,Female,Northwest,North,0,No children,25.65,no,11454.02
+40,40-49,2,Female,Southwest,South,0,No children,29.6,no,5910.94
+35,30-39,1,Male,Southwest,South,1,Children,38.6,no,4762.33
+39,30-39,1,Male,Southwest,South,4,Children,29.6,no,7512.27
+30,30-39,1,Male,Northwest,North,1,Children,24.13,no,4032.24
+24,18-29,1,Male,Southwest,South,0,No children,23.4,no,1969.61
+20,18-29,1,Male,Northwest,North,0,No children,29.74,no,1769.53
+32,30-39,1,Male,Southeast,South,2,Children,46.53,no,4686.39
+59,50-59,1,Male,Southwest,South,0,No children,37.4,no,21797
+55,50-59,2,Female,Southeast,South,2,Children,30.14,no,11881.97
+57,50-59,2,Female,Northwest,North,0,No children,30.5,no,11840.78
+56,50-59,1,Male,Southwest,South,0,No children,39.6,no,10601.41
+40,40-49,2,Female,Southeast,South,3,Children,33,no,7682.67
+49,40-49,2,Female,Southeast,South,3,Children,36.63,no,10381.48
+42,40-49,1,Male,Southwest,South,0,No children,30,yes,22144.03
+62,60-69,2,Female,Northeast,North,2,Children,38.1,no,15230.32
+56,50-59,1,Male,Northeast,North,0,No children,25.94,no,11165.42
+19,18-29,1,Male,Northwest,North,0,No children,25.18,no,1632.04
+30,30-39,2,Female,Southeast,South,1,Children,28.38,yes,19521.97
+60,60-69,2,Female,Southwest,South,1,Children,28.7,no,13224.69
+56,50-59,2,Female,Northwest,North,2,Children,33.82,no,12643.38
+28,18-29,2,Female,Northeast,North,1,Children,24.32,no,23288.93
+18,18-29,2,Female,Southeast,South,1,Children,24.09,no,2201.1
+27,18-29,1,Male,Southeast,South,0,No children,32.67,no,2497.04
+18,18-29,2,Female,Northeast,North,0,No children,30.12,no,2203.47
+19,18-29,2,Female,Southwest,South,0,No children,29.8,no,1744.47
+47,40-49,2,Female,Northeast,North,0,No children,33.35,no,20878.78
+54,50-59,1,Male,Southwest,South,3,Children,25.1,yes,25382.3
+61,60-69,1,Male,Northwest,North,1,Children,28.31,yes,28868.66
+24,18-29,1,Male,Northeast,North,0,No children,28.5,yes,35147.53
+25,18-29,1,Male,Northwest,North,0,No children,35.63,no,2534.39
+21,18-29,1,Male,Southeast,South,0,No children,36.85,no,1534.3
+23,18-29,1,Male,Southeast,South,0,No children,32.56,no,1824.29
+63,60-69,1,Male,Northwest,North,3,Children,41.33,no,15555.19
+49,40-49,1,Male,Southeast,South,2,Children,37.51,no,9304.7
+18,18-29,2,Female,Southeast,South,0,No children,31.35,no,1622.19
+51,50-59,2,Female,Southwest,South,1,Children,39.5,no,9880.07
+48,40-49,1,Male,Southwest,South,3,Children,34.3,no,9563.03
+31,30-39,2,Female,Northeast,North,0,No children,31.07,no,4347.02
+54,50-59,2,Female,Northwest,North,3,Children,21.47,no,12475.35
+19,18-29,1,Male,Southwest,South,0,No children,28.7,no,1253.94
+44,40-49,2,Female,Southeast,South,0,No children,38.06,yes,48885.14
+53,50-59,1,Male,Northwest,North,1,Children,31.16,no,10461.98
+19,18-29,2,Female,Southwest,South,0,No children,32.9,no,1748.77
+61,60-69,2,Female,Southeast,South,0,No children,25.08,no,24513.09
+18,18-29,2,Female,Northeast,North,0,No children,25.08,no,2196.47
+61,60-69,1,Male,Southwest,South,0,No children,43.4,no,12574.05
+21,18-29,1,Male,Southwest,South,4,Children,25.7,yes,17942.11
+20,18-29,1,Male,Northeast,North,0,No children,27.93,no,1967.02
+31,30-39,2,Female,Southwest,South,2,Children,23.6,no,4931.65
+45,40-49,1,Male,Southwest,South,2,Children,28.7,no,8027.97
+44,40-49,2,Female,Southeast,South,2,Children,23.98,no,8211.1
+62,60-69,2,Female,Southwest,South,0,No children,39.2,no,13470.86
+29,18-29,1,Male,Southwest,South,0,No children,34.4,yes,36197.7
+43,40-49,1,Male,Northeast,North,0,No children,26.03,no,6837.37
+51,50-59,1,Male,Southeast,South,1,Children,23.21,yes,22218.11
+19,18-29,1,Male,Southeast,South,0,No children,30.25,yes,32548.34
+38,30-39,2,Female,Southeast,South,1,Children,28.93,no,5974.38
+37,30-39,1,Male,Northwest,North,3,Children,30.88,no,6796.86
+22,18-29,1,Male,Northwest,North,1,Children,31.35,no,2643.27
+21,18-29,1,Male,Northwest,North,2,Children,23.75,no,3077.1
+24,18-29,2,Female,Northeast,North,0,No children,25.27,no,3044.21
+57,50-59,2,Female,Southwest,South,0,No children,28.7,no,11455.28
+56,50-59,1,Male,Northeast,North,1,Children,32.11,no,11763
+27,18-29,1,Male,Southeast,South,0,No children,33.66,no,2498.41
+51,50-59,1,Male,Northeast,North,0,No children,22.42,no,9361.33
+19,18-29,1,Male,Southwest,South,0,No children,30.4,no,1256.3
+39,30-39,1,Male,Southwest,South,1,Children,28.3,yes,21082.16
+58,50-59,1,Male,Southwest,South,0,No children,35.7,no,11362.76
+20,18-29,1,Male,Southeast,South,1,Children,35.31,no,27724.29
+45,40-49,1,Male,Northwest,North,2,Children,30.5,no,8413.46
+35,30-39,2,Female,Southwest,South,1,Children,31,no,5240.77
+31,30-39,1,Male,Northeast,North,0,No children,30.88,no,3857.76
+50,50-59,2,Female,Northeast,North,0,No children,27.36,no,25656.58
+32,30-39,2,Female,Southeast,South,0,No children,44.22,no,3994.18
+51,50-59,2,Female,Northeast,North,0,No children,33.92,no,9866.3
+38,30-39,2,Female,Southeast,South,0,No children,37.73,no,5397.62
+42,40-49,1,Male,Southeast,South,1,Children,26.07,yes,38245.59
+18,18-29,2,Female,Southeast,South,0,No children,33.88,no,11482.63
+19,18-29,2,Female,Northwest,North,2,Children,30.59,no,24059.68
+51,50-59,2,Female,Southwest,South,1,Children,25.8,no,9861.03
+46,40-49,1,Male,Northeast,North,1,Children,39.43,no,8342.91
+18,18-29,1,Male,Northeast,North,0,No children,25.46,no,1708
+57,50-59,1,Male,Southeast,South,1,Children,42.13,yes,48675.52
+62,60-69,2,Female,Northeast,North,0,No children,31.73,no,14043.48
+59,50-59,1,Male,Southeast,South,2,Children,29.7,no,12925.89
+37,30-39,1,Male,Southeast,South,0,No children,36.19,no,19214.71
+64,60-69,1,Male,Southeast,South,0,No children,40.48,no,13831.12
+38,30-39,1,Male,Northeast,North,1,Children,28.03,no,6067.13
+33,30-39,2,Female,Southwest,South,3,Children,38.9,no,5972.38
+46,40-49,2,Female,Southwest,South,2,Children,30.2,no,8825.09
+46,40-49,2,Female,Southeast,South,1,Children,28.05,no,8233.1
+53,50-59,1,Male,Southeast,South,0,No children,31.35,no,27346.04
+34,30-39,2,Female,Southwest,South,3,Children,38,no,6196.45
+20,18-29,2,Female,Southeast,South,2,Children,31.79,no,3056.39
+63,60-69,2,Female,Southeast,South,0,No children,36.3,no,13887.2
+54,50-59,2,Female,Southeast,South,0,No children,47.41,yes,63770.43
+54,50-59,1,Male,Northwest,North,0,No children,30.21,no,10231.5
+49,40-49,1,Male,Northwest,North,2,Children,25.84,yes,23807.24
+28,18-29,1,Male,Northeast,North,0,No children,35.44,no,3268.85
+54,50-59,2,Female,Southwest,South,2,Children,46.7,no,11538.42
+25,18-29,2,Female,Northeast,North,0,No children,28.6,no,3213.62
+43,40-49,2,Female,Southeast,South,0,No children,46.2,yes,45863.21
+63,60-69,1,Male,Southwest,South,0,No children,30.8,no,13390.56
+32,30-39,2,Female,Southeast,South,0,No children,28.93,no,3972.92
+62,60-69,1,Male,Southwest,South,0,No children,21.4,no,12957.12
+52,50-59,2,Female,Northwest,North,2,Children,31.73,no,11187.66
+25,18-29,2,Female,Northeast,North,0,No children,41.33,no,17878.9
+28,18-29,1,Male,Southwest,South,2,Children,23.8,no,3847.67
+46,40-49,1,Male,Northeast,North,1,Children,33.44,no,8334.59
+34,30-39,1,Male,Southeast,South,0,No children,34.21,no,3935.18
+35,30-39,2,Female,Northwest,North,3,Children,34.11,yes,39983.43
+19,18-29,1,Male,Northwest,North,0,No children,35.53,no,1646.43
+46,40-49,2,Female,Northwest,North,2,Children,19.95,no,9193.84
+54,50-59,2,Female,Northeast,North,0,No children,32.68,no,10923.93
+27,18-29,1,Male,Southwest,South,0,No children,30.5,no,2494.02
+50,50-59,1,Male,Southeast,South,1,Children,44.77,no,9058.73
+18,18-29,2,Female,Southeast,South,2,Children,32.12,no,2801.26
+19,18-29,2,Female,Northwest,North,0,No children,30.5,no,2128.43
+38,30-39,2,Female,Northwest,North,1,Children,40.57,no,6373.56
+41,40-49,1,Male,Northwest,North,2,Children,30.59,no,7256.72
+49,40-49,2,Female,Southwest,South,5,Children,31.9,no,11552.9
+48,40-49,1,Male,Northwest,North,2,Children,40.57,yes,45702.02
+31,30-39,2,Female,Southwest,South,0,No children,29.1,no,3761.29
+18,18-29,2,Female,Southeast,South,1,Children,37.29,no,2219.45
+30,30-39,2,Female,Southeast,South,2,Children,43.12,no,4753.64
+62,60-69,2,Female,Northeast,North,1,Children,36.86,no,31620
+57,50-59,2,Female,Northeast,North,2,Children,34.3,no,13224.06
+58,50-59,2,Female,Northwest,North,0,No children,27.17,no,12222.9
+22,18-29,1,Male,Southeast,South,0,No children,26.84,no,1665
+31,30-39,2,Female,Northeast,North,1,Children,38.1,yes,58571.07
+52,50-59,1,Male,Southwest,South,1,Children,30.2,no,9724.53
+25,18-29,2,Female,Northeast,North,0,No children,23.47,no,3206.49
+59,50-59,1,Male,Northeast,North,1,Children,25.46,no,12913.99
+19,18-29,1,Male,Northwest,North,0,No children,30.59,no,1639.56
+39,30-39,1,Male,Southeast,South,2,Children,45.43,no,6356.27
+32,30-39,2,Female,Southeast,South,1,Children,23.65,no,17626.24
+19,18-29,1,Male,Southwest,South,0,No children,20.7,no,1242.82
+33,30-39,2,Female,Southeast,South,1,Children,28.27,no,4779.6
+21,18-29,1,Male,Northeast,North,3,Children,20.24,no,3861.21
+34,30-39,2,Female,Northwest,North,1,Children,30.21,yes,43943.88
+61,60-69,2,Female,Northeast,North,0,No children,35.91,no,13635.64
+38,30-39,2,Female,Southeast,South,1,Children,30.69,no,5976.83
+58,50-59,2,Female,Southwest,South,0,No children,29,no,11842.44
+47,40-49,1,Male,Northwest,North,1,Children,19.57,no,8428.07
+20,18-29,1,Male,Southeast,South,2,Children,31.13,no,2566.47
+21,18-29,2,Female,Northeast,North,1,Children,21.85,yes,15359.1
+41,40-49,1,Male,Southeast,South,0,No children,40.26,no,5709.16
+46,40-49,2,Female,Northeast,North,1,Children,33.73,no,8823.99
+42,40-49,2,Female,Southeast,South,2,Children,29.48,no,7640.31
+34,30-39,2,Female,Northeast,North,1,Children,33.25,no,5594.85
+43,40-49,1,Male,Southwest,South,2,Children,32.6,no,7441.5
+52,50-59,2,Female,Northwest,North,2,Children,37.53,no,33471.97
+18,18-29,2,Female,Southeast,South,0,No children,39.16,no,1633.04
+51,50-59,1,Male,Northwest,North,0,No children,31.64,no,9174.14
+56,50-59,2,Female,Southwest,South,0,No children,25.3,no,11070.54
+64,60-69,2,Female,Southeast,South,3,Children,39.05,no,16085.13
+19,18-29,2,Female,Northwest,North,0,No children,28.31,yes,17468.98
+51,50-59,2,Female,Southeast,South,0,No children,34.1,no,9283.56
+27,18-29,2,Female,Northeast,North,0,No children,25.18,no,3558.62
+59,50-59,2,Female,Northwest,North,0,No children,23.66,yes,25678.78
+28,18-29,1,Male,Northeast,North,2,Children,26.98,no,4435.09
+30,30-39,1,Male,Southwest,South,2,Children,37.8,yes,39241.44
+47,40-49,2,Female,Southeast,South,1,Children,29.37,no,8547.69
+38,30-39,2,Female,Southwest,South,2,Children,34.8,no,6571.54
+18,18-29,2,Female,Northeast,North,0,No children,33.16,no,2207.7
+34,30-39,2,Female,Northeast,North,3,Children,19,no,6753.04
+20,18-29,2,Female,Southeast,South,0,No children,33,no,1880.07
+47,40-49,2,Female,Southeast,South,1,Children,36.63,yes,42969.85
+56,50-59,2,Female,Northeast,North,0,No children,28.6,no,11658.12
+49,40-49,1,Male,Southwest,South,2,Children,25.6,yes,23306.55
+19,18-29,2,Female,Southeast,South,0,No children,33.11,yes,34439.86
+55,50-59,2,Female,Southwest,South,0,No children,37.1,no,10713.64
+30,30-39,1,Male,Southwest,South,1,Children,31.4,no,3659.35
+37,30-39,1,Male,Southwest,South,4,Children,34.1,yes,40182.25
+49,40-49,2,Female,Southwest,South,1,Children,21.3,no,9182.17
+18,18-29,1,Male,Northeast,North,0,No children,33.54,yes,34617.84
+59,50-59,1,Male,Northwest,North,0,No children,28.79,no,12129.61
+29,18-29,2,Female,Northwest,North,0,No children,26.03,no,3736.46
+36,30-39,1,Male,Northeast,North,3,Children,28.88,no,6748.59
+33,30-39,1,Male,Southeast,South,1,Children,42.46,no,11326.71
+58,50-59,1,Male,Southwest,South,0,No children,38,no,11365.95
+44,40-49,2,Female,Northwest,North,0,No children,38.95,yes,42983.46
+53,50-59,1,Male,Southwest,South,1,Children,36.1,no,10085.85
+24,18-29,1,Male,Southwest,South,0,No children,29.3,no,1977.82
+29,18-29,2,Female,Southeast,South,0,No children,35.53,no,3366.67
+40,40-49,1,Male,Northeast,North,2,Children,22.71,no,7173.36
+51,50-59,1,Male,Southwest,South,1,Children,39.7,no,9391.35
+64,60-69,1,Male,Northeast,North,0,No children,38.19,no,14410.93
+19,18-29,2,Female,Northwest,North,1,Children,24.51,no,2709.11
+35,30-39,2,Female,Northeast,North,2,Children,38.1,no,24915.05
+39,30-39,1,Male,Northeast,North,0,No children,26.41,yes,20149.32
+56,50-59,1,Male,Southeast,South,4,Children,33.66,no,12949.16
+33,30-39,1,Male,Southwest,South,5,Children,42.4,no,6666.24
+42,40-49,1,Male,Northwest,North,3,Children,28.31,yes,32787.46
+61,60-69,1,Male,Northeast,North,0,No children,33.92,no,13143.86
+23,18-29,2,Female,Northwest,North,3,Children,34.96,no,4466.62
+43,40-49,1,Male,Southeast,South,2,Children,35.31,no,18806.15
+48,40-49,1,Male,Northeast,North,3,Children,30.78,no,10141.14
+39,30-39,1,Male,Northwest,North,1,Children,26.22,no,6123.57
+40,40-49,2,Female,Northeast,North,3,Children,23.37,no,8252.28
+18,18-29,1,Male,Northeast,North,0,No children,28.5,no,1712.23
+58,50-59,2,Female,Northeast,North,0,No children,32.97,no,12430.95
+49,40-49,2,Female,Southeast,South,2,Children,42.68,no,9800.89
+53,50-59,2,Female,Southeast,South,1,Children,39.6,no,10579.71
+48,40-49,2,Female,Southeast,South,0,No children,31.13,no,8280.62
+45,40-49,2,Female,Southeast,South,2,Children,36.3,no,8527.53
+59,50-59,2,Female,Southeast,South,0,No children,35.2,no,12244.53
+52,50-59,2,Female,Southeast,South,2,Children,25.3,yes,24667.42
+26,18-29,2,Female,Southwest,South,1,Children,42.4,no,3410.32
+27,18-29,1,Male,Northwest,North,2,Children,33.16,no,4058.71
+48,40-49,2,Female,Northeast,North,1,Children,35.91,no,26392.26
+57,50-59,2,Female,Northeast,North,4,Children,28.79,no,14394.4
+37,30-39,1,Male,Southeast,South,3,Children,46.53,no,6435.62
+57,50-59,2,Female,Southeast,South,1,Children,23.98,no,22192.44
+32,30-39,2,Female,Northeast,North,1,Children,31.54,no,5148.55
+18,18-29,1,Male,Southeast,South,0,No children,33.66,no,1136.4
+64,60-69,2,Female,Southeast,South,0,No children,22.99,yes,27037.91
+43,40-49,1,Male,Southeast,South,2,Children,38.06,yes,42560.43
+49,40-49,1,Male,Southwest,South,1,Children,28.7,no,8703.46
+40,40-49,2,Female,Northwest,North,2,Children,32.78,yes,40003.33
+62,60-69,1,Male,Northeast,North,0,No children,32.02,yes,45710.21
+40,40-49,2,Female,Southeast,South,1,Children,29.81,no,6500.24
+30,30-39,1,Male,Southeast,South,3,Children,31.57,no,4837.58
+29,18-29,2,Female,Northeast,North,0,No children,31.16,no,3943.6
+36,30-39,1,Male,Southeast,South,0,No children,29.7,no,4399.73
+41,40-49,2,Female,Southeast,South,0,No children,31.02,no,6185.32
+44,40-49,2,Female,Southeast,South,2,Children,43.89,yes,46200.99
+45,40-49,1,Male,Northwest,North,0,No children,21.38,no,7222.79
+55,50-59,2,Female,Southeast,South,3,Children,40.81,no,12485.8
+60,60-69,1,Male,Northwest,North,3,Children,31.35,yes,46130.53
+56,50-59,1,Male,Southwest,South,3,Children,36.1,no,12363.55
+49,40-49,2,Female,Northwest,North,2,Children,23.18,no,10156.78
+21,18-29,2,Female,Southwest,South,1,Children,17.4,no,2585.27
+19,18-29,1,Male,Southwest,South,0,No children,20.3,no,1242.26
+39,30-39,1,Male,Southwest,South,2,Children,35.3,yes,40103.89
+53,50-59,1,Male,Northwest,North,0,No children,24.32,no,9863.47
+33,30-39,2,Female,Southwest,South,1,Children,18.5,no,4766.02
+53,50-59,1,Male,Northeast,North,2,Children,26.41,no,11244.38
+42,40-49,1,Male,Northeast,North,2,Children,26.13,no,7729.65
+40,40-49,1,Male,Southeast,South,0,No children,41.69,no,5438.75
+47,40-49,2,Female,Southwest,South,1,Children,24.1,no,26236.58
+27,18-29,1,Male,Southeast,South,1,Children,31.13,yes,34806.47
+21,18-29,1,Male,Northeast,North,0,No children,27.36,no,2104.11
+47,40-49,1,Male,Southwest,South,1,Children,36.2,no,8068.19
+20,18-29,1,Male,Northwest,North,1,Children,32.4,no,2362.23
+24,18-29,1,Male,Northwest,North,0,No children,23.66,no,2352.97
+27,18-29,2,Female,Southwest,South,1,Children,34.8,no,3578
+26,18-29,2,Female,Northwest,North,0,No children,40.19,no,3201.25
+53,50-59,2,Female,Northeast,North,2,Children,32.3,no,29186.48
+41,40-49,1,Male,Southeast,South,1,Children,35.75,yes,40273.65
+56,50-59,1,Male,Northwest,North,0,No children,33.73,no,10976.25
+23,18-29,2,Female,Southeast,South,2,Children,39.27,no,3500.61
+21,18-29,2,Female,Southeast,South,0,No children,34.87,no,2020.55
+50,50-59,2,Female,Northeast,North,0,No children,44.75,no,9541.7
+53,50-59,1,Male,Southeast,South,0,No children,41.47,no,9504.31
+34,30-39,2,Female,Northwest,North,1,Children,26.41,no,5385.34
+47,40-49,2,Female,Northwest,North,1,Children,29.55,no,8930.93
+33,30-39,2,Female,Southwest,South,2,Children,32.9,no,5375.04
+51,50-59,2,Female,Southeast,South,0,No children,38.06,yes,44400.41
+49,40-49,1,Male,Northwest,North,3,Children,28.69,no,10264.44
+31,30-39,2,Female,Northeast,North,3,Children,30.5,no,6113.23
+36,30-39,2,Female,Northeast,North,0,No children,27.74,no,5469.01
+18,18-29,1,Male,Southeast,South,1,Children,35.2,no,1727.54
+50,50-59,2,Female,Southeast,South,2,Children,23.54,no,10107.22
+43,40-49,2,Female,Northwest,North,2,Children,30.69,no,8310.84
+20,18-29,1,Male,Northeast,North,0,No children,40.47,no,1984.45
+24,18-29,2,Female,Southwest,South,0,No children,22.6,no,2457.5
+60,60-69,1,Male,Southwest,South,0,No children,28.9,no,12146.97
+49,40-49,2,Female,Northwest,North,1,Children,22.61,no,9566.99
+60,60-69,1,Male,Northwest,North,1,Children,24.32,no,13112.6
+51,50-59,2,Female,Northwest,North,2,Children,36.67,no,10848.13
+58,50-59,2,Female,Northwest,North,0,No children,33.44,no,12231.61
+51,50-59,2,Female,Northeast,North,0,No children,40.66,no,9875.68
+53,50-59,1,Male,Southwest,South,3,Children,36.6,no,11264.54
+62,60-69,1,Male,Southwest,South,0,No children,37.4,no,12979.36
+19,18-29,1,Male,Southwest,South,0,No children,35.4,no,1263.25
+50,50-59,2,Female,Northeast,North,1,Children,27.08,no,10106.13
+30,30-39,2,Female,Southeast,South,3,Children,39.05,yes,40932.43
+41,40-49,1,Male,Northwest,North,1,Children,28.41,no,6664.69
+29,18-29,2,Female,Northeast,North,1,Children,21.76,yes,16657.72
+18,18-29,2,Female,Northeast,North,0,No children,40.28,no,2217.6
+41,40-49,2,Female,Southeast,South,1,Children,36.08,no,6781.35
+35,30-39,1,Male,Southeast,South,3,Children,24.42,yes,19362
+53,50-59,1,Male,Southwest,South,1,Children,21.4,no,10065.41
+24,18-29,2,Female,Southwest,South,3,Children,30.1,no,4234.93
+48,40-49,2,Female,Northeast,North,1,Children,27.27,no,9447.25
+59,50-59,2,Female,Southwest,South,3,Children,32.1,no,14007.22
+49,40-49,2,Female,Northwest,North,1,Children,34.77,no,9583.89
+37,30-39,2,Female,Southeast,South,0,No children,38.39,yes,40419.02
+26,18-29,1,Male,Southwest,South,2,Children,23.7,no,3484.33
+23,18-29,1,Male,Northeast,North,3,Children,31.73,yes,36189.1
+29,18-29,1,Male,Southwest,South,2,Children,35.5,yes,44585.46
+45,40-49,1,Male,Northeast,North,2,Children,24.04,no,8604.48
+27,18-29,1,Male,Southeast,South,0,No children,29.15,yes,18246.5
+53,50-59,1,Male,Northeast,North,0,No children,34.11,yes,43254.42
+31,30-39,2,Female,Southeast,South,0,No children,26.62,no,3757.84
+50,50-59,1,Male,Northwest,North,0,No children,26.41,no,8827.21
+50,50-59,2,Female,Northwest,North,1,Children,30.12,no,9910.36
+34,30-39,1,Male,Southwest,South,2,Children,27,no,11737.85
+19,18-29,1,Male,Northwest,North,0,No children,21.76,no,1627.28
+47,40-49,2,Female,Southwest,South,1,Children,36,no,8556.91
+28,18-29,1,Male,Northwest,North,0,No children,30.88,no,3062.51
+37,30-39,2,Female,Southeast,South,0,No children,26.4,yes,19539.24
+21,18-29,1,Male,Northwest,North,0,No children,28.98,no,1906.36
+64,60-69,1,Male,Northwest,North,0,No children,37.91,no,14210.54
+58,50-59,2,Female,Southeast,South,0,No children,22.77,no,11833.78
+24,18-29,1,Male,Northeast,North,4,Children,33.63,no,17128.43
+31,30-39,1,Male,Northeast,North,2,Children,27.65,no,5031.27
+39,30-39,2,Female,Northeast,North,3,Children,22.8,no,7985.82
+47,40-49,2,Female,Southeast,South,0,No children,27.83,yes,23065.42
+30,30-39,1,Male,Northeast,North,3,Children,37.43,no,5428.73
+18,18-29,1,Male,Southeast,South,0,No children,38.17,yes,36307.8
+22,18-29,2,Female,Northeast,North,2,Children,34.58,no,3925.76
+23,18-29,1,Male,Southwest,South,1,Children,35.2,no,2416.96
+33,30-39,1,Male,Southwest,South,1,Children,27.1,yes,19040.88
+27,18-29,1,Male,Northeast,North,0,No children,26.03,no,3070.81
+45,40-49,2,Female,Northeast,North,2,Children,25.18,no,9095.07
+57,50-59,2,Female,Northwest,North,0,No children,31.83,no,11842.62
+47,40-49,1,Male,Southwest,South,1,Children,32.3,no,8062.76
+42,40-49,2,Female,Southwest,South,1,Children,29,no,7050.64
+64,60-69,2,Female,Southwest,South,0,No children,39.7,no,14319.03
+38,30-39,2,Female,Northwest,North,2,Children,19.48,no,6933.24
+61,60-69,1,Male,Southwest,South,3,Children,36.1,no,27941.29
+53,50-59,2,Female,Southwest,South,2,Children,26.7,no,11150.78
+44,40-49,2,Female,Northeast,North,0,No children,36.48,no,12797.21
+19,18-29,2,Female,Northwest,North,0,No children,28.88,yes,17748.51
+41,40-49,1,Male,Northwest,North,2,Children,34.2,no,7261.74
+51,50-59,1,Male,Southeast,South,3,Children,33.33,no,10560.49
+40,40-49,1,Male,Northwest,North,2,Children,32.3,no,6986.7
+45,40-49,1,Male,Northeast,North,0,No children,39.81,no,7448.4
+35,30-39,1,Male,Southeast,South,3,Children,34.32,no,5934.38
+53,50-59,1,Male,Northwest,North,0,No children,28.88,no,9869.81
+30,30-39,1,Male,Southwest,South,3,Children,24.4,yes,18259.22
+18,18-29,1,Male,Southeast,South,0,No children,41.14,no,1146.8
+51,50-59,1,Male,Southeast,South,1,Children,35.97,no,9386.16
+50,50-59,2,Female,Southwest,South,1,Children,27.6,yes,24520.26
+31,30-39,2,Female,Southeast,South,1,Children,29.26,no,4350.51
+35,30-39,2,Female,Southwest,South,3,Children,27.7,no,6414.18
+60,60-69,1,Male,Northeast,North,0,No children,36.96,no,12741.17
+21,18-29,1,Male,Northwest,North,0,No children,36.86,no,1917.32
+29,18-29,1,Male,Northeast,North,3,Children,22.52,no,5209.58
+62,60-69,2,Female,Southeast,South,0,No children,29.92,no,13457.96
+39,30-39,2,Female,Southeast,South,0,No children,41.8,no,5662.23
+19,18-29,1,Male,Southwest,South,0,No children,27.6,no,1252.41
+22,18-29,2,Female,Northeast,North,0,No children,23.18,no,2731.91
+53,50-59,1,Male,Southeast,South,0,No children,20.9,yes,21195.82
+39,30-39,2,Female,Northwest,North,2,Children,31.92,no,7209.49
+27,18-29,1,Male,Northwest,North,0,No children,28.5,yes,18310.74
+30,30-39,1,Male,Southeast,South,2,Children,44.22,no,4266.17
+30,30-39,2,Female,Northeast,North,1,Children,22.9,no,4719.52
+58,50-59,2,Female,Southwest,South,0,No children,33.1,no,11848.14
+33,30-39,1,Male,Northeast,North,0,No children,24.8,yes,17904.53
+42,40-49,2,Female,Southeast,South,1,Children,26.18,no,7046.72
+64,60-69,2,Female,Southeast,South,0,No children,35.97,no,14313.85
+21,18-29,1,Male,Southwest,South,1,Children,22.3,no,2103.08
+18,18-29,2,Female,Southeast,South,0,No children,42.24,yes,38792.69
+23,18-29,1,Male,Southeast,South,0,No children,26.51,no,1815.88
+45,40-49,2,Female,Northwest,North,0,No children,35.82,no,7731.86
+40,40-49,2,Female,Northwest,North,1,Children,41.42,no,28476.73
+19,18-29,2,Female,Northwest,North,0,No children,36.58,no,2136.88
+18,18-29,1,Male,Southeast,South,0,No children,30.14,no,1131.51
+25,18-29,1,Male,Northeast,North,1,Children,25.84,no,3309.79
+46,40-49,2,Female,Southwest,South,3,Children,30.8,no,9414.92
+33,30-39,2,Female,Northwest,North,3,Children,42.94,no,6360.99
+54,50-59,1,Male,Southeast,South,2,Children,21.01,no,11013.71
+28,18-29,1,Male,Northeast,North,2,Children,22.52,no,4428.89
+36,30-39,1,Male,Southeast,South,2,Children,34.43,no,5584.31
+20,18-29,2,Female,Southeast,South,0,No children,31.46,no,1877.93
+24,18-29,2,Female,Northwest,North,0,No children,24.23,no,2842.76
+23,18-29,1,Male,Southwest,South,3,Children,37.1,no,3597.6
+47,40-49,2,Female,Northeast,North,1,Children,26.13,yes,23401.31
+33,30-39,2,Female,Northwest,North,0,No children,35.53,yes,55135.4
+45,40-49,1,Male,Southwest,South,1,Children,33.7,no,7445.92
+26,18-29,1,Male,Northwest,North,0,No children,17.67,no,2680.95
+18,18-29,2,Female,Southeast,South,0,No children,31.13,no,1621.88
+44,40-49,2,Female,Southeast,South,2,Children,29.81,no,8219.2
+60,60-69,1,Male,Northwest,North,0,No children,24.32,no,12523.6
+64,60-69,2,Female,Northeast,North,2,Children,31.83,no,16069.08
+56,50-59,1,Male,Southeast,South,2,Children,31.79,yes,43813.87
+36,30-39,1,Male,Northeast,North,1,Children,28.03,yes,20773.63
+41,40-49,1,Male,Northeast,North,3,Children,30.78,yes,39597.41
+39,30-39,1,Male,Northwest,North,1,Children,21.85,no,6117.49
+63,60-69,1,Male,Southwest,South,0,No children,33.1,no,13393.76
+36,30-39,2,Female,Northwest,North,0,No children,25.84,no,5266.37
+28,18-29,2,Female,Northwest,North,2,Children,23.85,no,4719.74
+58,50-59,1,Male,Northwest,North,0,No children,34.39,no,11743.93
+36,30-39,1,Male,Northwest,North,1,Children,33.82,no,5377.46
+42,40-49,1,Male,Southeast,South,2,Children,35.97,no,7160.33
+36,30-39,1,Male,Southwest,South,0,No children,31.5,no,4402.23
+56,50-59,2,Female,Northeast,North,0,No children,28.31,no,11657.72
+35,30-39,2,Female,Northeast,North,2,Children,23.47,no,6402.29
+59,50-59,2,Female,Northwest,North,0,No children,31.35,no,12622.18
+21,18-29,1,Male,Southwest,South,0,No children,31.1,no,1526.31
+59,50-59,1,Male,Northeast,North,0,No children,24.7,no,12323.94
+23,18-29,2,Female,Southeast,South,2,Children,32.78,yes,36021.01
+57,50-59,2,Female,Southeast,South,0,No children,29.81,yes,27533.91
+53,50-59,1,Male,Northeast,North,0,No children,30.5,no,10072.06
+60,60-69,2,Female,Southeast,South,0,No children,32.45,yes,45008.96
+51,50-59,2,Female,Southwest,South,1,Children,34.2,no,9872.7
+23,18-29,1,Male,Southeast,South,1,Children,50.38,no,2438.06
+27,18-29,2,Female,Southwest,South,0,No children,24.1,no,2974.13
+55,50-59,1,Male,Northwest,North,0,No children,32.78,no,10601.63
+37,30-39,2,Female,Northeast,North,0,No children,30.78,yes,37270.15
+61,60-69,1,Male,Northwest,North,2,Children,32.3,no,14119.62
+46,40-49,2,Female,Northeast,North,0,No children,35.53,yes,42111.66
+53,50-59,2,Female,Northeast,North,2,Children,23.75,no,11729.68
+49,40-49,2,Female,Northeast,North,3,Children,23.85,yes,24106.91
+20,18-29,2,Female,Southwest,South,0,No children,29.6,no,1875.34
+48,40-49,2,Female,Southeast,South,0,No children,33.11,yes,40974.16
+25,18-29,1,Male,Northwest,North,0,No children,24.13,yes,15817.99
+25,18-29,2,Female,Southeast,South,1,Children,32.23,no,18218.16
+57,50-59,1,Male,Southwest,South,0,No children,28.1,no,10965.45
+37,30-39,2,Female,Southwest,South,2,Children,47.6,yes,46113.51
+38,30-39,2,Female,Southwest,South,3,Children,28,no,7151.09
+55,50-59,2,Female,Northwest,North,2,Children,33.54,no,12269.69
+36,30-39,2,Female,Northeast,North,0,No children,19.86,no,5458.05
+51,50-59,1,Male,Southwest,South,0,No children,25.4,no,8782.47
+40,40-49,1,Male,Southwest,South,2,Children,29.9,no,6600.36
+18,18-29,1,Male,Southeast,South,0,No children,37.29,no,1141.45
+57,50-59,1,Male,Southwest,South,1,Children,43.7,no,11576.13
+61,60-69,1,Male,Northeast,North,0,No children,23.66,no,13129.6
+25,18-29,2,Female,Southwest,South,3,Children,24.3,no,4391.65
+50,50-59,1,Male,Southwest,South,0,No children,36.2,no,8457.82
+26,18-29,2,Female,Southeast,South,1,Children,29.48,no,3392.37
+42,40-49,1,Male,Southeast,South,0,No children,24.86,no,5966.89
+43,40-49,1,Male,Southwest,South,1,Children,30.1,no,6849.03
+44,40-49,1,Male,Northeast,North,3,Children,21.85,no,8891.14
+23,18-29,2,Female,Northwest,North,0,No children,28.12,no,2690.11
+49,40-49,2,Female,Southwest,South,1,Children,27.1,no,26140.36
+33,30-39,1,Male,Southeast,South,5,Children,33.44,no,6653.79
+41,40-49,1,Male,Southwest,South,1,Children,28.8,no,6282.24
+37,30-39,2,Female,Southwest,South,2,Children,29.5,no,6311.95
+22,18-29,1,Male,Southwest,South,3,Children,34.8,no,3443.06
+23,18-29,1,Male,Northwest,North,1,Children,27.36,no,2789.06
+21,18-29,2,Female,Northeast,North,0,No children,22.14,no,2585.85
+51,50-59,2,Female,Northeast,North,3,Children,37.05,yes,46255.11
+25,18-29,1,Male,Northwest,North,4,Children,26.7,no,4877.98
+32,30-39,1,Male,Southeast,South,1,Children,28.93,yes,19719.69
+57,50-59,1,Male,Northeast,North,0,No children,28.98,yes,27218.44
+36,30-39,2,Female,Northwest,North,0,No children,30.02,no,5272.18
+22,18-29,1,Male,Southwest,South,0,No children,39.5,no,1682.6
+57,50-59,1,Male,Northwest,North,1,Children,33.63,no,11945.13
+64,60-69,2,Female,Northwest,North,0,No children,26.89,yes,29330.98
+36,30-39,2,Female,Southeast,South,4,Children,29.04,no,7243.81
+54,50-59,1,Male,Northeast,North,0,No children,24.04,no,10422.92
+47,40-49,1,Male,Southeast,South,2,Children,38.94,yes,44202.65
+62,60-69,1,Male,Northeast,North,0,No children,32.11,no,13555
+61,60-69,2,Female,Southwest,South,0,No children,44,no,13063.88
+43,40-49,2,Female,Northeast,North,2,Children,20.05,yes,19798.05
+19,18-29,1,Male,Northwest,North,1,Children,25.56,no,2221.56
+18,18-29,2,Female,Southeast,South,0,No children,40.26,no,1634.57
+19,18-29,2,Female,Northwest,North,0,No children,22.52,no,2117.34
+49,40-49,1,Male,Northeast,North,0,No children,22.52,no,8688.86
+60,60-69,1,Male,Southeast,South,0,No children,40.92,yes,48673.56
+26,18-29,1,Male,Northeast,North,3,Children,27.27,no,4661.29
+49,40-49,1,Male,Southeast,South,0,No children,36.85,no,8125.78
+60,60-69,2,Female,Southwest,South,0,No children,35.1,no,12644.59
+26,18-29,2,Female,Northeast,North,2,Children,29.36,no,4564.19
+27,18-29,1,Male,Northeast,North,3,Children,32.59,no,4846.92
+44,40-49,2,Female,Southeast,South,1,Children,32.34,no,7633.72
+63,60-69,1,Male,Southwest,South,3,Children,39.8,no,15170.07
+32,30-39,2,Female,Southwest,South,0,No children,24.6,yes,17496.31
+22,18-29,1,Male,Northwest,North,1,Children,28.31,no,2639.04
+18,18-29,1,Male,Northeast,North,0,No children,31.73,yes,33732.69
+59,50-59,2,Female,Northwest,North,3,Children,26.7,no,14382.71
+44,40-49,2,Female,Southwest,South,1,Children,27.5,no,7626.99
+33,30-39,1,Male,Northwest,North,2,Children,24.61,no,5257.51
+24,18-29,2,Female,Southeast,South,0,No children,33.99,no,2473.33
+43,40-49,2,Female,Northwest,North,0,No children,26.89,yes,21774.32
+45,40-49,1,Male,Northeast,North,0,No children,22.9,yes,35069.37
+61,60-69,2,Female,Southwest,South,0,No children,28.2,no,13041.92
+35,30-39,2,Female,Southeast,South,1,Children,34.21,no,5245.23
+62,60-69,2,Female,Southwest,South,0,No children,25,no,13451.12
+62,60-69,2,Female,Southwest,South,0,No children,33.2,no,13462.52
+38,30-39,1,Male,Southwest,South,1,Children,31,no,5488.26
+34,30-39,1,Male,Northwest,North,0,No children,35.82,no,4320.41
+43,40-49,1,Male,Southwest,South,0,No children,23.2,no,6250.44
+50,50-59,1,Male,Northeast,North,2,Children,32.11,no,25333.33
+19,18-29,2,Female,Southwest,South,2,Children,23.4,no,2913.57
+57,50-59,2,Female,Southwest,South,1,Children,20.1,no,12032.33
+62,60-69,2,Female,Southeast,South,0,No children,39.16,no,13470.8
+41,40-49,1,Male,Southeast,South,1,Children,34.21,no,6289.75
+26,18-29,1,Male,Southeast,South,1,Children,46.53,no,2927.06
+39,30-39,2,Female,Southwest,South,1,Children,32.5,no,6238.3
+46,40-49,1,Male,Southwest,South,5,Children,25.8,no,10096.97
+45,40-49,2,Female,Southwest,South,0,No children,35.3,no,7348.14
+32,30-39,1,Male,Southeast,South,2,Children,37.18,no,4673.39
+59,50-59,2,Female,Southwest,South,0,No children,27.5,no,12233.83
+44,40-49,1,Male,Northeast,North,2,Children,29.74,no,32108.66
+39,30-39,2,Female,Northwest,North,5,Children,24.23,no,8965.8
+18,18-29,1,Male,Southeast,South,2,Children,26.18,no,2304
+53,50-59,1,Male,Southeast,South,0,No children,29.48,no,9487.64
+18,18-29,1,Male,Southeast,South,0,No children,23.21,no,1121.87
+50,50-59,2,Female,Southeast,South,1,Children,46.09,no,9549.57
+18,18-29,2,Female,Northeast,North,0,No children,40.19,no,2217.47
+19,18-29,1,Male,Northwest,North,0,No children,22.61,no,1628.47
+62,60-69,1,Male,Southeast,South,0,No children,39.93,no,12982.87
+56,50-59,2,Female,Southwest,South,1,Children,35.8,no,11674.13
+42,40-49,1,Male,Southwest,South,2,Children,35.8,no,7160.09
+37,30-39,1,Male,Northeast,North,1,Children,34.2,yes,39047.29
+42,40-49,1,Male,Northwest,North,0,No children,31.26,no,6358.78
+25,18-29,1,Male,Southwest,South,3,Children,29.7,yes,19933.46
+57,50-59,1,Male,Northeast,North,0,No children,18.34,no,11534.87
+51,50-59,1,Male,Southeast,South,2,Children,42.9,yes,47462.89
+30,30-39,2,Female,Northwest,North,1,Children,28.41,no,4527.18
+44,40-49,1,Male,Southwest,South,2,Children,30.2,yes,38998.55
+34,30-39,1,Male,Northwest,North,1,Children,27.84,yes,20009.63
+31,30-39,1,Male,Southeast,South,1,Children,39.49,no,3875.73
+54,50-59,1,Male,Southeast,South,1,Children,30.8,yes,41999.52
+24,18-29,1,Male,Northwest,North,1,Children,26.79,no,12609.89
+43,40-49,1,Male,Northeast,North,1,Children,34.96,yes,41034.22
+48,40-49,1,Male,Northwest,North,1,Children,36.67,no,28468.92
+19,18-29,2,Female,Northwest,North,1,Children,39.62,no,2730.11
+29,18-29,2,Female,Southwest,South,0,No children,25.9,no,3353.28
+63,60-69,2,Female,Southeast,South,1,Children,35.2,no,14474.68
+46,40-49,1,Male,Northeast,North,3,Children,24.8,no,9500.57
+52,50-59,1,Male,Northwest,North,2,Children,36.77,no,26467.1
+35,30-39,1,Male,Southwest,South,1,Children,27.1,no,4746.34
+51,50-59,1,Male,Northwest,North,2,Children,24.8,yes,23967.38
+44,40-49,1,Male,Northwest,North,1,Children,25.37,no,7518.03
+21,18-29,1,Male,Northeast,North,2,Children,25.75,no,3279.87
+39,30-39,2,Female,Southeast,South,5,Children,34.32,no,8596.83
+50,50-59,2,Female,Southeast,South,3,Children,28.16,no,10702.64
+34,30-39,2,Female,Northeast,North,0,No children,23.56,no,4992.38
+22,18-29,2,Female,Northwest,North,0,No children,20.24,no,2527.82
+19,18-29,2,Female,Southwest,South,0,No children,40.5,no,1759.34
+26,18-29,1,Male,Southeast,South,0,No children,35.42,no,2322.62
+29,18-29,1,Male,Northeast,North,0,No children,22.9,yes,16138.76
+48,40-49,1,Male,Southeast,South,0,No children,40.15,no,7804.16
+26,18-29,1,Male,Southeast,South,1,Children,29.15,no,2902.91
+45,40-49,2,Female,Northeast,North,3,Children,40,no,9704.67
+36,30-39,2,Female,Southeast,South,0,No children,29.92,no,4889.04
+54,50-59,1,Male,Northeast,North,1,Children,25.46,no,25517.11
+34,30-39,1,Male,Northeast,North,0,No children,21.38,no,4500.34
+31,30-39,1,Male,Southwest,South,3,Children,25.9,yes,19199.94
+27,18-29,2,Female,Northeast,North,1,Children,30.59,no,16796.41
+20,18-29,1,Male,Northeast,North,5,Children,30.12,no,4915.06
+44,40-49,2,Female,Southwest,South,1,Children,25.8,no,7624.63
+43,40-49,1,Male,Northwest,North,3,Children,30.12,no,8410.05
+45,40-49,2,Female,Northwest,North,1,Children,27.65,no,28340.19
+34,30-39,1,Male,Northeast,North,0,No children,34.68,no,4518.83
+24,18-29,2,Female,Northeast,North,0,No children,20.52,yes,14571.89
+26,18-29,2,Female,Southwest,South,1,Children,19.8,no,3378.91
+38,30-39,2,Female,Northeast,North,2,Children,27.84,no,7144.86
+50,50-59,2,Female,Southwest,South,2,Children,31.6,no,10118.42
+38,30-39,1,Male,Southeast,South,1,Children,28.27,no,5484.47
+27,18-29,2,Female,Northwest,North,3,Children,20.05,yes,16420.49
+39,30-39,2,Female,Northeast,North,3,Children,23.28,no,7986.48
+39,30-39,2,Female,Southwest,South,3,Children,34.1,no,7418.52
+63,60-69,2,Female,Southeast,South,0,No children,36.85,no,13887.97
+33,30-39,2,Female,Northeast,North,3,Children,36.29,no,6551.75
+36,30-39,2,Female,Northwest,North,0,No children,26.89,no,5267.82
+30,30-39,1,Male,Northwest,North,2,Children,22.99,yes,17361.77
+24,18-29,1,Male,Southwest,South,0,No children,32.7,yes,34472.84
+24,18-29,1,Male,Southwest,South,0,No children,25.8,no,1972.95
+48,40-49,1,Male,Southwest,South,0,No children,29.6,no,21232.18
+47,40-49,1,Male,Northeast,North,1,Children,19.19,no,8627.54
+29,18-29,1,Male,Northwest,North,2,Children,31.73,no,4433.39
+28,18-29,1,Male,Northeast,North,2,Children,29.26,no,4438.26
+47,40-49,1,Male,Northwest,North,3,Children,28.22,yes,24915.22
+25,18-29,1,Male,Northeast,North,2,Children,24.99,no,23241.47
+51,50-59,1,Male,Northeast,North,1,Children,27.74,no,9957.72
+48,40-49,2,Female,Southwest,South,0,No children,22.8,no,8269.04
+43,40-49,1,Male,Southeast,South,2,Children,20.13,yes,18767.74
+61,60-69,2,Female,Southeast,South,4,Children,33.33,no,36580.28
+48,40-49,1,Male,Northwest,North,1,Children,32.3,no,8765.25
+38,30-39,2,Female,Southwest,South,0,No children,27.6,no,5383.54
+59,50-59,1,Male,Northwest,North,0,No children,25.46,no,12124.99
+19,18-29,2,Female,Northwest,North,1,Children,24.61,no,2709.24
+26,18-29,2,Female,Southwest,South,2,Children,34.2,no,3987.93
+54,50-59,2,Female,Northwest,North,3,Children,35.82,no,12495.29
+21,18-29,2,Female,Northwest,North,2,Children,32.68,no,26018.95
+51,50-59,1,Male,Southwest,South,0,No children,37,no,8798.59
+22,18-29,2,Female,Southeast,South,3,Children,31.02,yes,35595.59
+47,40-49,1,Male,Southeast,South,1,Children,36.08,yes,42211.14
+18,18-29,1,Male,Southeast,South,1,Children,23.32,no,1711.03
+47,40-49,2,Female,Southeast,South,1,Children,45.32,no,8569.86
+21,18-29,2,Female,Southwest,South,0,No children,34.6,no,2020.18
+19,18-29,1,Male,Northwest,North,1,Children,26.03,yes,16450.89
+23,18-29,1,Male,Northwest,North,0,No children,18.72,no,21595.38
+54,50-59,1,Male,Southwest,South,0,No children,31.6,no,9850.43
+37,30-39,2,Female,Northeast,North,2,Children,17.29,no,6877.98
+46,40-49,2,Female,Northwest,North,1,Children,23.66,yes,21677.28
+55,50-59,2,Female,Southeast,South,0,No children,35.2,yes,44423.8
+30,30-39,2,Female,Northeast,North,0,No children,27.93,no,4137.52
+18,18-29,1,Male,Northeast,North,0,No children,21.57,yes,13747.87
+61,60-69,1,Male,Northwest,North,0,No children,38.38,no,12950.07
+54,50-59,2,Female,Southwest,South,3,Children,23,no,12094.48
+22,18-29,1,Male,Southeast,South,2,Children,37.07,yes,37484.45
+45,40-49,2,Female,Northwest,North,1,Children,30.5,yes,39725.52
+22,18-29,1,Male,Northeast,North,0,No children,28.88,no,2250.84
+19,18-29,1,Male,Northwest,North,2,Children,27.27,no,22493.66
+35,30-39,2,Female,Northwest,North,0,No children,28.03,yes,20234.85
+18,18-29,1,Male,Northeast,North,0,No children,23.09,no,1704.7
+20,18-29,1,Male,Northeast,North,0,No children,30.69,yes,33475.82
+28,18-29,2,Female,Southwest,South,0,No children,25.8,no,3161.45
+55,50-59,1,Male,Northeast,North,1,Children,35.25,no,11394.07
+43,40-49,2,Female,Northwest,North,2,Children,24.7,yes,21880.82
+43,40-49,2,Female,Northeast,North,0,No children,25.08,no,7325.05
+22,18-29,1,Male,Southeast,South,1,Children,52.58,yes,44501.4
+25,18-29,2,Female,Northwest,North,1,Children,22.52,no,3594.17
+49,40-49,1,Male,Southwest,South,0,No children,30.9,yes,39727.61
+44,40-49,2,Female,Northwest,North,1,Children,36.96,no,8023.14
+64,60-69,1,Male,Northeast,North,0,No children,26.41,no,14394.56
+49,40-49,1,Male,Northeast,North,1,Children,29.83,no,9288.03
+47,40-49,1,Male,Southwest,South,3,Children,29.8,yes,25309.49
+27,18-29,2,Female,Northwest,North,0,No children,21.47,no,3353.47
+55,50-59,1,Male,Northwest,North,0,No children,27.65,no,10594.5
+48,40-49,2,Female,Southwest,South,0,No children,28.9,no,8277.52
+45,40-49,2,Female,Southeast,South,0,No children,31.79,no,17929.3
+24,18-29,2,Female,Southeast,South,0,No children,39.49,no,2480.98
+32,30-39,1,Male,Northwest,North,1,Children,33.82,no,4462.72
+24,18-29,1,Male,Southeast,South,0,No children,32.01,no,1981.58
+57,50-59,1,Male,Southeast,South,1,Children,27.94,no,11554.22
+59,50-59,1,Male,Southeast,South,1,Children,41.14,yes,48970.25
+36,30-39,1,Male,Northwest,North,3,Children,28.6,no,6548.2
+29,18-29,2,Female,Southwest,South,4,Children,25.6,no,5708.87
+42,40-49,2,Female,Southwest,South,1,Children,25.3,no,7045.5
+48,40-49,1,Male,Southeast,South,2,Children,37.29,no,8978.19
+39,30-39,1,Male,Northeast,North,0,No children,42.66,no,5757.41
+63,60-69,1,Male,Northwest,North,1,Children,21.66,no,14349.85
+54,50-59,2,Female,Southeast,South,1,Children,31.9,no,10928.85
+37,30-39,1,Male,Southeast,South,1,Children,37.07,yes,39871.7
+63,60-69,1,Male,Northeast,North,0,No children,31.45,no,13974.46
+21,18-29,1,Male,Northwest,North,0,No children,31.26,no,1909.53
+54,50-59,2,Female,Northeast,North,2,Children,28.88,no,12096.65
+60,60-69,2,Female,Northeast,North,0,No children,18.34,no,13204.29
+32,30-39,2,Female,Southeast,South,1,Children,29.59,no,4562.84
+47,40-49,2,Female,Southwest,South,1,Children,32,no,8551.35
+21,18-29,1,Male,Northeast,North,0,No children,26.03,no,2102.26
+28,18-29,1,Male,Southeast,South,0,No children,31.68,yes,34672.15
+63,60-69,1,Male,Southeast,South,3,Children,33.66,no,15161.53
+18,18-29,1,Male,Southeast,South,2,Children,21.78,no,11884.05
+32,30-39,1,Male,Northwest,North,1,Children,27.84,no,4454.4
+38,30-39,1,Male,Northwest,North,1,Children,19.95,no,5855.9
+32,30-39,1,Male,Southwest,South,1,Children,31.5,no,4076.5
+62,60-69,2,Female,Northwest,North,2,Children,30.5,no,15019.76
+39,30-39,2,Female,Southwest,South,5,Children,18.3,yes,19023.26
+55,50-59,1,Male,Northeast,North,0,No children,28.98,no,10796.35
+57,50-59,1,Male,Northwest,North,0,No children,31.54,no,11353.23
+52,50-59,1,Male,Southeast,South,1,Children,47.74,no,9748.91
+56,50-59,1,Male,Southwest,South,0,No children,22.1,no,10577.09
+47,40-49,1,Male,Southeast,South,0,No children,36.19,yes,41676.08
+55,50-59,2,Female,Northeast,North,0,No children,29.83,no,11286.54
+23,18-29,1,Male,Southwest,South,3,Children,32.7,no,3591.48
+22,18-29,2,Female,Northwest,North,0,No children,30.4,yes,33907.55
+50,50-59,2,Female,Southwest,South,4,Children,33.7,no,11299.34
+18,18-29,2,Female,Northeast,North,4,Children,31.35,no,4561.19
+51,50-59,2,Female,Northeast,North,2,Children,34.96,yes,44641.2
+22,18-29,1,Male,Southeast,South,0,No children,33.77,no,1674.63
+52,50-59,2,Female,Northeast,North,0,No children,30.88,no,23045.57
+25,18-29,2,Female,Southeast,South,1,Children,33.99,no,3227.12
+33,30-39,2,Female,Northeast,North,2,Children,19.1,yes,16776.3
+53,50-59,1,Male,Southwest,South,3,Children,28.6,no,11253.42
+29,18-29,1,Male,Southeast,South,1,Children,38.94,no,3471.41
+58,50-59,1,Male,Southeast,South,0,No children,36.08,no,11363.28
+37,30-39,1,Male,Southwest,South,0,No children,29.8,no,20420.6
+54,50-59,2,Female,Southeast,South,0,No children,31.24,no,10338.93
+49,40-49,2,Female,Northwest,North,0,No children,29.93,no,8988.16
+50,50-59,2,Female,Northwest,North,2,Children,26.22,no,10493.95
+26,18-29,1,Male,Southwest,South,1,Children,30,no,2904.09
+45,40-49,1,Male,Southeast,South,3,Children,20.35,no,8605.36
+54,50-59,2,Female,Northeast,North,1,Children,32.3,no,11512.41
+38,30-39,1,Male,Southeast,South,3,Children,38.39,yes,41949.24
+48,40-49,2,Female,Southeast,South,3,Children,25.85,yes,24180.93
+28,18-29,2,Female,Northwest,North,3,Children,26.32,no,5312.17
+23,18-29,1,Male,Northeast,North,0,No children,24.51,no,2396.1
+55,50-59,1,Male,Southeast,South,1,Children,32.67,no,10807.49
+41,40-49,1,Male,Northeast,North,5,Children,29.64,no,9222.4
+25,18-29,1,Male,Southeast,South,2,Children,33.33,yes,36124.57
+33,30-39,1,Male,Southeast,South,1,Children,35.75,yes,38282.75
+30,30-39,2,Female,Northwest,North,3,Children,19.95,no,5693.43
+23,18-29,2,Female,Southwest,South,0,No children,31.4,yes,34166.27
+46,40-49,1,Male,Southeast,South,2,Children,38.17,no,8347.16
+53,50-59,2,Female,Northwest,North,3,Children,36.86,yes,46661.44
+27,18-29,2,Female,Northeast,North,1,Children,32.4,no,18903.49
+23,18-29,2,Female,Northeast,North,1,Children,42.75,yes,40904.2
+63,60-69,2,Female,Northwest,North,0,No children,25.08,no,14254.61
+55,50-59,1,Male,Southwest,South,0,No children,29.9,no,10214.64
+35,30-39,2,Female,Southeast,South,2,Children,35.86,no,5836.52
+34,30-39,1,Male,Southwest,South,1,Children,32.8,no,14358.36
+19,18-29,2,Female,Southwest,South,0,No children,18.6,no,1728.9
+39,30-39,2,Female,Southeast,South,5,Children,23.87,no,8582.3
+27,18-29,1,Male,Southwest,South,2,Children,45.9,no,3693.43
+57,50-59,1,Male,Northeast,North,0,No children,40.28,no,20709.02
+52,50-59,2,Female,Northwest,North,0,No children,18.34,no,9991.04
+28,18-29,1,Male,Northwest,North,0,No children,33.82,no,19673.34
+50,50-59,2,Female,Northwest,North,3,Children,28.12,no,11085.59
+44,40-49,2,Female,Southwest,South,1,Children,25,no,7623.52
+26,18-29,2,Female,Northwest,North,0,No children,22.23,no,3176.29
+33,30-39,1,Male,Southeast,South,0,No children,30.25,no,3704.35
+19,18-29,2,Female,Northwest,North,0,No children,32.49,yes,36898.73
+50,50-59,1,Male,Southeast,South,1,Children,37.07,no,9048.03
+41,40-49,2,Female,Southwest,South,3,Children,32.6,no,7954.52
+52,50-59,2,Female,Southeast,South,0,No children,24.86,no,27117.99
+39,30-39,1,Male,Southeast,South,2,Children,32.34,no,6338.08
+50,50-59,1,Male,Southwest,South,2,Children,32.3,no,9630.4
+52,50-59,1,Male,Northwest,North,3,Children,32.78,no,11289.11
+60,60-69,1,Male,Southwest,South,0,No children,32.8,yes,52590.83
+20,18-29,2,Female,Northwest,North,0,No children,31.92,no,2261.57
+55,50-59,1,Male,Southwest,South,1,Children,21.5,no,10791.96
+42,40-49,1,Male,Southwest,South,0,No children,34.1,no,5979.73
+18,18-29,2,Female,Northeast,North,0,No children,30.31,no,2203.74
+58,50-59,2,Female,Northwest,North,0,No children,36.48,no,12235.84
+43,40-49,2,Female,Southeast,South,3,Children,32.56,yes,40941.29
+35,30-39,2,Female,Northwest,North,1,Children,35.82,no,5630.46
+48,40-49,2,Female,Northwest,North,4,Children,27.93,no,11015.17
+36,30-39,2,Female,Northeast,North,3,Children,22.14,no,7228.22
+19,18-29,1,Male,Southeast,South,0,No children,44.88,yes,39722.75
+23,18-29,2,Female,Northwest,North,2,Children,23.18,no,14426.07
+20,18-29,2,Female,Northeast,North,0,No children,30.59,no,2459.72
+32,30-39,2,Female,Southwest,South,0,No children,41.1,no,3989.84
+43,40-49,2,Female,Northwest,North,1,Children,34.58,no,7727.25
+34,30-39,1,Male,Southeast,South,2,Children,42.13,no,5124.19
+30,30-39,1,Male,Southeast,South,1,Children,38.83,no,18963.17
+18,18-29,2,Female,Northeast,North,0,No children,28.22,no,2200.83
+41,40-49,2,Female,Northwest,North,1,Children,28.31,no,7153.55
+35,30-39,2,Female,Northeast,North,0,No children,26.13,no,5227.99
+57,50-59,1,Male,Southeast,South,0,No children,40.37,no,10982.5
+29,18-29,2,Female,Southwest,South,2,Children,24.6,no,4529.48
+32,30-39,1,Male,Southwest,South,2,Children,35.2,no,4670.64
+37,30-39,2,Female,Northwest,North,1,Children,34.11,no,6112.35
+18,18-29,1,Male,Northeast,North,1,Children,27.36,yes,17178.68
+43,40-49,2,Female,Southwest,South,2,Children,26.7,yes,22478.6
+56,50-59,2,Female,Southeast,South,0,No children,41.91,no,11093.62
+38,30-39,1,Male,Northwest,North,2,Children,29.26,no,6457.84
+29,18-29,1,Male,Northwest,North,2,Children,32.11,no,4433.92
+22,18-29,2,Female,Southwest,South,0,No children,27.1,no,2154.36
+52,50-59,2,Female,Northwest,North,1,Children,24.13,yes,23887.66
+40,40-49,2,Female,Southwest,South,1,Children,27.4,no,6496.89
+23,18-29,2,Female,Northeast,North,0,No children,34.87,no,2899.49
+31,30-39,1,Male,Southeast,South,0,No children,29.81,yes,19350.37
+42,40-49,2,Female,Northeast,North,1,Children,41.33,no,7650.77
+24,18-29,2,Female,Northwest,North,0,No children,29.93,no,2850.68
+25,18-29,2,Female,Southwest,South,0,No children,30.3,no,2632.99
+48,40-49,2,Female,Northeast,North,1,Children,27.36,no,9447.38
+23,18-29,2,Female,Southeast,South,1,Children,28.49,yes,18328.24
+45,40-49,1,Male,Northeast,North,2,Children,23.56,no,8603.82
+20,18-29,1,Male,Northwest,North,3,Children,35.63,yes,37465.34
+62,60-69,2,Female,Northwest,North,0,No children,32.68,no,13844.8
+43,40-49,2,Female,Northeast,North,1,Children,25.27,yes,21771.34
+23,18-29,2,Female,Southwest,South,0,No children,28,no,13126.68
+31,30-39,2,Female,Northwest,North,2,Children,32.78,no,5327.4
+41,40-49,2,Female,Northeast,North,1,Children,21.76,no,13725.47
+58,50-59,2,Female,Northeast,North,1,Children,32.4,no,13019.16
+48,40-49,2,Female,Northwest,North,0,No children,36.58,no,8671.19
+31,30-39,2,Female,Northwest,North,0,No children,21.76,no,4134.08
+19,18-29,2,Female,Northwest,North,3,Children,27.93,no,18838.7
+19,18-29,2,Female,Northwest,North,0,No children,30.02,yes,33307.55
+41,40-49,1,Male,Southeast,South,0,No children,33.55,no,5699.84
+40,40-49,1,Male,Northwest,North,1,Children,29.36,no,6393.6
+31,30-39,2,Female,Southwest,South,2,Children,25.8,no,4934.71
+37,30-39,1,Male,Northwest,North,2,Children,24.32,no,6198.75
+46,40-49,1,Male,Northwest,North,2,Children,40.38,no,8733.23
+22,18-29,1,Male,Northwest,North,0,No children,32.11,no,2055.32
+51,50-59,1,Male,Northeast,North,1,Children,32.3,no,9964.06
+18,18-29,2,Female,Southeast,South,3,Children,27.28,yes,18223.45
+35,30-39,1,Male,Northwest,North,1,Children,17.86,no,5116.5
+59,50-59,2,Female,Southwest,South,2,Children,34.8,no,36910.61
+36,30-39,1,Male,Southwest,South,2,Children,33.4,yes,38415.47
+37,30-39,2,Female,Northeast,North,1,Children,25.56,yes,20296.86
+59,50-59,1,Male,Southwest,South,1,Children,37.1,no,12347.17
+36,30-39,1,Male,Northwest,North,1,Children,30.88,no,5373.36
+39,30-39,1,Male,Southeast,South,2,Children,34.1,no,23563.02
+18,18-29,1,Male,Northeast,North,0,No children,21.47,no,1702.46
+52,50-59,2,Female,Southwest,South,2,Children,33.3,no,10806.84
+27,18-29,2,Female,Northwest,North,1,Children,31.26,no,3956.07
+18,18-29,1,Male,Northeast,North,0,No children,39.14,no,12890.06
+40,40-49,1,Male,Southeast,South,0,No children,25.08,no,5415.66
+29,18-29,1,Male,Southeast,South,2,Children,37.29,no,4058.12
+46,40-49,2,Female,Southwest,South,1,Children,34.6,yes,41661.6
+38,30-39,2,Female,Northwest,North,3,Children,30.21,no,7537.16
+30,30-39,2,Female,Northeast,North,1,Children,21.95,no,4718.2
+40,40-49,1,Male,Southeast,South,2,Children,24.97,no,6593.51
+50,50-59,1,Male,Southeast,South,0,No children,25.3,no,8442.67
+20,18-29,2,Female,Southeast,South,0,No children,24.42,yes,26125.67
+41,40-49,1,Male,Northeast,North,1,Children,23.94,no,6858.48
+33,30-39,2,Female,Southeast,South,1,Children,39.82,no,4795.66
+38,30-39,1,Male,Northeast,North,2,Children,16.82,no,6640.54
+42,40-49,1,Male,Southeast,South,2,Children,37.18,no,7162.01
+56,50-59,1,Male,Southeast,South,0,No children,34.43,no,10594.23
+58,50-59,1,Male,Northeast,North,0,No children,30.31,no,11938.26
+52,50-59,1,Male,Northwest,North,3,Children,34.49,yes,60021.4
+20,18-29,2,Female,Southwest,South,0,No children,21.8,yes,20167.34
+54,50-59,2,Female,Northwest,North,3,Children,24.61,no,12479.71
+58,50-59,1,Male,Southwest,South,0,No children,23.3,no,11345.52
+45,40-49,2,Female,Southeast,South,2,Children,27.83,no,8515.76
+26,18-29,1,Male,Northwest,North,0,No children,31.07,no,2699.57
+63,60-69,2,Female,Northeast,North,0,No children,21.66,no,14449.85
+58,50-59,2,Female,Northwest,North,0,No children,28.22,no,12224.35
+37,30-39,1,Male,Northeast,North,3,Children,22.71,no,6985.51
+25,18-29,2,Female,Southeast,South,1,Children,42.13,no,3238.44
+52,50-59,1,Male,Southeast,South,2,Children,41.8,yes,47269.85
+64,60-69,1,Male,Southeast,South,2,Children,36.96,yes,49577.66
+22,18-29,2,Female,Northwest,North,3,Children,21.28,no,4296.27
+28,18-29,2,Female,Southeast,South,0,No children,33.11,no,3171.61
+18,18-29,1,Male,Southeast,South,0,No children,33.33,no,1135.94
+28,18-29,1,Male,Southwest,South,5,Children,24.3,no,5615.37
+45,40-49,2,Female,Southwest,South,3,Children,25.7,no,9101.8
+33,30-39,1,Male,Southwest,South,4,Children,29.4,no,6059.17
+18,18-29,2,Female,Southeast,South,0,No children,39.82,no,1633.96
+32,30-39,1,Male,Northeast,North,1,Children,33.63,yes,37607.53
+24,18-29,1,Male,Northeast,North,0,No children,29.83,yes,18648.42
+19,18-29,1,Male,Southwest,South,0,No children,19.8,no,1241.57
+20,18-29,1,Male,Southwest,South,0,No children,27.3,yes,16232.85
+40,40-49,2,Female,Southwest,South,4,Children,29.3,no,15828.82
+34,30-39,2,Female,Southeast,South,0,No children,27.72,no,4415.16
+42,40-49,2,Female,Southwest,South,0,No children,37.9,no,6474.01
+51,50-59,2,Female,Northwest,North,3,Children,36.39,no,11436.74
+54,50-59,2,Female,Northwest,North,1,Children,27.65,no,11305.93
+55,50-59,1,Male,Northwest,North,3,Children,37.72,no,30063.58
+52,50-59,2,Female,Northeast,North,0,No children,23.18,no,10197.77
+32,30-39,2,Female,Northeast,North,0,No children,20.52,no,4544.23
+28,18-29,1,Male,Southwest,South,1,Children,37.1,no,3277.16
+41,40-49,2,Female,Southeast,South,1,Children,28.05,no,6770.19
+43,40-49,2,Female,Southwest,South,1,Children,29.9,no,7337.75
+49,40-49,2,Female,Northeast,North,2,Children,33.35,no,10370.91
+64,60-69,1,Male,Southeast,South,0,No children,23.76,yes,26926.51
+55,50-59,2,Female,Southwest,South,0,No children,30.5,no,10704.47
+24,18-29,1,Male,Northeast,North,0,No children,31.07,yes,34254.05
+20,18-29,2,Female,Southwest,South,0,No children,33.3,no,1880.49
+45,40-49,1,Male,Southwest,South,3,Children,27.5,no,8615.3
+26,18-29,1,Male,Northwest,North,1,Children,33.92,no,3292.53
+25,18-29,2,Female,Northwest,North,0,No children,34.49,no,3021.81
+43,40-49,1,Male,Southeast,South,5,Children,25.52,no,14478.33
+35,30-39,1,Male,Southeast,South,1,Children,27.61,no,4747.05
+26,18-29,1,Male,Southeast,South,0,No children,27.06,yes,17043.34
+57,50-59,1,Male,Southwest,South,0,No children,23.7,no,10959.33
+22,18-29,2,Female,Northeast,North,0,No children,30.4,no,2741.95
+32,30-39,2,Female,Northwest,North,0,No children,29.74,no,4357.04
+39,30-39,1,Male,Northeast,North,1,Children,29.93,yes,22462.04
+25,18-29,2,Female,Northwest,North,2,Children,26.79,no,4189.11
+48,40-49,2,Female,Southeast,South,0,No children,33.33,no,8283.68
+47,40-49,2,Female,Northwest,North,2,Children,27.65,yes,24535.7
+18,18-29,2,Female,Northeast,North,0,No children,21.66,yes,14283.46
+18,18-29,1,Male,Southeast,South,1,Children,30.03,no,1720.35
+61,60-69,1,Male,Southwest,South,1,Children,36.3,yes,47403.88
+47,40-49,2,Female,Northeast,North,0,No children,24.32,no,8534.67
+28,18-29,2,Female,Northeast,North,0,No children,17.29,no,3732.63
+36,30-39,2,Female,Southwest,South,1,Children,25.9,no,5472.45
+20,18-29,1,Male,Southwest,South,2,Children,39.4,yes,38344.57
+44,40-49,1,Male,Southeast,South,1,Children,34.32,no,7147.47
+38,30-39,2,Female,Northeast,North,2,Children,19.95,no,7133.9
+19,18-29,1,Male,Southwest,South,0,No children,34.9,yes,34828.65
+21,18-29,1,Male,Southeast,South,0,No children,23.21,no,1515.34
+46,40-49,1,Male,Northwest,North,3,Children,25.75,no,9301.89
+58,50-59,1,Male,Northeast,North,0,No children,25.18,no,11931.13
+20,18-29,1,Male,Southwest,South,1,Children,22,no,1964.78
+18,18-29,1,Male,Northeast,North,0,No children,26.13,no,1708.93
+28,18-29,2,Female,Southeast,South,2,Children,26.51,no,4340.44
+33,30-39,1,Male,Northwest,North,2,Children,27.46,no,5261.47
+19,18-29,2,Female,Northwest,North,1,Children,25.75,no,2710.83
+45,40-49,1,Male,Southeast,South,0,No children,30.36,yes,62592.87
+62,60-69,1,Male,Northwest,North,3,Children,30.88,yes,46718.16
+25,18-29,2,Female,Southwest,South,1,Children,20.8,no,3208.79
+43,40-49,1,Male,Southwest,South,0,No children,27.8,yes,37829.72
+42,40-49,1,Male,Northeast,North,2,Children,24.61,yes,21259.38
+24,18-29,2,Female,Southeast,South,0,No children,27.72,no,2464.62
+29,18-29,2,Female,Northeast,North,0,No children,21.85,yes,16115.3
+32,30-39,1,Male,Northwest,North,4,Children,28.12,yes,21472.48
+25,18-29,2,Female,Southwest,South,0,No children,30.2,yes,33900.65
+41,40-49,1,Male,Southwest,South,2,Children,32.2,no,6875.96
+42,40-49,1,Male,Northwest,North,1,Children,26.32,no,6940.91
+33,30-39,2,Female,Northwest,North,0,No children,26.7,no,4571.41
+34,30-39,1,Male,Southwest,South,1,Children,42.9,no,4536.26
+19,18-29,2,Female,Southwest,South,2,Children,34.7,yes,36397.58
+30,30-39,2,Female,Northwest,North,3,Children,23.66,yes,18765.88
+18,18-29,1,Male,Northeast,North,1,Children,28.31,no,11272.33
+19,18-29,2,Female,Southwest,South,0,No children,20.6,no,1731.68
+18,18-29,1,Male,Southeast,South,0,No children,53.13,no,1163.46
+35,30-39,1,Male,Northeast,North,4,Children,39.71,no,19496.72
+39,30-39,2,Female,Northwest,North,2,Children,26.32,no,7201.7
+31,30-39,1,Male,Northwest,North,3,Children,31.07,no,5425.02
+62,60-69,1,Male,Northeast,North,0,No children,26.7,yes,28101.33
+62,60-69,1,Male,Southeast,South,0,No children,38.83,no,12981.35
+42,40-49,2,Female,Southeast,South,2,Children,40.37,yes,43896.38
+31,30-39,1,Male,Northwest,North,1,Children,25.94,no,4239.89
+61,60-69,1,Male,Northeast,North,0,No children,33.54,no,13143.34
+42,40-49,2,Female,Northeast,North,0,No children,32.87,no,7050.02
+51,50-59,1,Male,Southeast,South,1,Children,30.03,no,9377.9
+23,18-29,2,Female,Northeast,North,2,Children,24.23,no,22395.74
+52,50-59,1,Male,Southwest,South,2,Children,38.6,no,10325.21
+57,50-59,2,Female,Southeast,South,2,Children,25.74,no,12629.17
+23,18-29,2,Female,Southwest,South,0,No children,33.4,no,10795.94
+52,50-59,2,Female,Southwest,South,3,Children,44.7,no,11411.69
+50,50-59,1,Male,Northwest,North,3,Children,30.97,no,10600.55
+18,18-29,2,Female,Northeast,North,0,No children,31.92,no,2205.98
+18,18-29,2,Female,Southeast,South,0,No children,36.85,no,1629.83
+21,18-29,2,Female,Southwest,South,0,No children,25.8,no,2007.95
+61,60-69,2,Female,Northwest,North,0,No children,29.07,yes,29141.36
